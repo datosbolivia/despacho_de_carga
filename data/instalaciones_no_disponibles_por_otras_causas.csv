@@ -1,0 +1,952 @@
+fecha,agente,cat,componente,de_hrs,a_hrs,causa
+2005-08-31,VHE,G,VHE01,00:00,17:57,Limitaciones en el suministro de gas
+2005-08-31,VHE,G,VHE02,00:00,06:38,Limitaciones en el suministro de gas
+2005-08-31,VHE,G,VHE03,00:25,17:43,Limitaciones en el suministro de gas
+2005-08-31,VHE,G,VHE04,00:00,06:14,Limitaciones en el suministro de gas
+2005-08-31,COBEE,G,KEN01,00:00,12:26,Limitaciones en el suministro de gas
+2005-08-31,COBEE,G,KEN02,00:00,07:11,Limitaciones en el suministro de gas
+2005-08-31,VHE,G,VHE01,22:45,24:00,Limitaciones en el suministro de gas
+2005-08-31,VHE,G,VHE02,23:24,24:00,Limitaciones en el suministro de gas
+2005-08-31,VHE,G,VHE04,23:59,24:00,Limitaciones en el suministro de gas
+2005-08-31,COBEE,G,KEN01,20:54,23:44,Limitaciones en el suministro de gas
+2005-08-30,VHE,G,VHE01,00:00,18:15,Limitaciones en el suministro de gas
+2005-08-30,VHE,G,VHE02,00:00,15:04,Limitaciones en el suministro de gas
+2005-08-30,VHE,G,VHE03,00:00,06:32,Limitaciones en el suministro de gas
+2005-08-30,VHE,G,VHE04,00:00,07:19,Limitaciones en el suministro de gas
+2005-08-30,COBEE,G,KEN01,00:00,15:06,Limitaciones en el suministro de gas
+2005-08-30,COBEE,G,KEN02,00:00,07:08,Limitaciones en el suministro de gas
+2005-08-30,VHE,G,VHE01,22:47,24:00,Limitaciones en el suministro de gas
+2005-08-30,VHE,G,VHE02,23:32,24:00,Limitaciones en el suministro de gas
+2005-08-30,VHE,G,VHE04,23:45,24:00,Limitaciones en el suministro de gas
+2005-08-30,COBEE,G,KEN01,23:57,24:00,Limitaciones en el suministro de gas
+2005-08-30,COBEE,G,KEN02,23:51,24:00,Limitaciones en el suministro de gas
+2005-08-29,VHE,G,VHE01,00:00,05:00,Limitaciones en el suministro de gas
+2005-08-29,VHE,G,VHE01,05:36,18:41,Limitaciones en el suministro de gas
+2005-08-29,VHE,G,VHE01,22:46,24:00,Limitaciones en el suministro de gas
+2005-08-29,VHE,G,VHE02,00:00,05:00,Limitaciones en el suministro de gas
+2005-08-29,VHE,G,VHE02,05:36,13:21,Limitaciones en el suministro de gas
+2005-08-29,VHE,G,VHE02,23:12,24:00,Limitaciones en el suministro de gas
+2005-08-29,VHE,G,VHE03,00:00,05:00,Limitaciones en el suministro de gas
+2005-08-29,VHE,G,VHE03,05:36,06:25,Limitaciones en el suministro de gas
+2005-08-29,VHE,G,VHE03,23:43,24:00,Limitaciones en el suministro de gas
+2005-08-29,VHE,G,VHE04,00:00,05:00,Limitaciones en el suministro de gas
+2005-08-29,VHE,G,VHE04,05:36,10:24,Limitaciones en el suministro de gas
+2005-08-29,VHE,G,VHE04,23:24,24:00,Limitaciones en el suministro de gas
+2005-08-29,COBEE,G,KEN01,00:16,07:03,Limitaciones en el suministro de gas
+2005-08-29,COBEE,G,KEN01,22:28,24:00,Limitaciones en el suministro de gas
+2005-08-29,COBEE,G,KEN02,00:00,15:39,Limitaciones en el suministro de gas
+2005-08-29,COBEE,G,KEN02,23:54,24:00,Limitaciones en el suministro de gas
+2005-08-28,VHE,G,VHE01,00:00,02:00,Limitaciones en el suministro de gas
+2005-08-28,VHE,G,VHE01,05:25,18:27,Limitaciones en el suministro de gas
+2005-08-28,VHE,G,VHE01,22:32,24:00,Limitaciones en el suministro de gas
+2005-08-28,VHE,G,VHE02,00:00,02:00,Limitaciones en el suministro de gas
+2005-08-28,VHE,G,VHE02,05:25,18:21,Limitaciones en el suministro de gas
+2005-08-28,VHE,G,VHE02,22:46,24:00,Limitaciones en el suministro de gas
+2005-08-28,VHE,G,VHE03,00:00,02:00,Limitaciones en el suministro de gas
+2005-08-28,VHE,G,VHE03,05:25,08:30,Limitaciones en el suministro de gas
+2005-08-28,VHE,G,VHE03,23:53,24:00,Limitaciones en el suministro de gas
+2005-08-28,VHE,G,VHE04,00:00,02:00,Limitaciones en el suministro de gas
+2005-08-28,VHE,G,VHE04,05:25,18:08,Limitaciones en el suministro de gas
+2005-08-28,VHE,G,VHE04,23:24,24:00,Limitaciones en el suministro de gas
+2005-08-28,COBEE,G,KEN01,00:00,02:00,Limitaciones en el suministro de gas
+2005-08-28,COBEE,G,KEN01,05:49,09:16,Limitaciones en el suministro de gas
+2005-08-28,COBEE,G,KEN02,00:22,02:00,Limitaciones en el suministro de gas
+2005-08-28,COBEE,G,KEN02,05:49,24:00,Limitaciones en el suministro de gas
+2005-08-27,VHE,G,VHE01,00:00,02:00,Limitaciones en el suministro de gas
+2005-08-27,VHE,G,VHE01,05:57,18:24,Limitaciones en el suministro de gas
+2005-08-27,VHE,G,VHE01,21:34,24:00,Limitaciones en el suministro de gas
+2005-08-27,VHE,G,VHE02,00:00,02:00,Limitaciones en el suministro de gas
+2005-08-27,VHE,G,VHE02,05:57,18:10,Limitaciones en el suministro de gas
+2005-08-27,VHE,G,VHE02,22:35,24:00,Limitaciones en el suministro de gas
+2005-08-27,VHE,G,VHE03,00:09,02:00,Limitaciones en el suministro de gas
+2005-08-27,VHE,G,VHE03,05:57,07:52,Limitaciones en el suministro de gas
+2005-08-27,VHE,G,VHE03,12:29,17:48,Limitaciones en el suministro de gas
+2005-08-27,VHE,G,VHE03,23:54,24:00,Limitaciones en el suministro de gas
+2005-08-27,VHE,G,VHE04,00:00,02:00,Limitaciones en el suministro de gas
+2005-08-27,VHE,G,VHE04,05:57,08:52,Limitaciones en el suministro de gas
+2005-08-27,VHE,G,VHE04,12:11,18:00,Limitaciones en el suministro de gas
+2005-08-27,VHE,G,VHE04,23:18,24:00,Limitaciones en el suministro de gas
+2005-08-27,EGSA,G,GCH06,09:12,09:15,Retraso en el arranque
+2005-08-27,COBEE,G,KEN01,00:00,02:00,Limitaciones en el suministro de gas
+2005-08-27,COBEE,G,KEN01,06:58,24:00,Limitaciones en el suministro de gas
+2005-08-27,COBEE,G,KEN02,00:00,02:00,Limitaciones en el suministro de gas
+2005-08-27,COBEE,G,KEN02,06:58,08:14,Limitaciones en el suministro de gas
+2005-08-27,COBEE,G,KEN02,14:27,18:01,Limitaciones en el suministro de gas
+2005-08-27,ERESA,G,LAN03,18:05,19:26,Problemas en la sincronización
+2005-08-26,VHE,G,VHE01,00:00,02:00,Limitaciones en el suministro de gas
+2005-08-26,VHE,G,VHE01,05:54,24:00,Limitaciones en el suministro de gas
+2005-08-26,VHE,G,VHE02,00:00,02:00,Limitaciones en el suministro de gas
+2005-08-26,VHE,G,VHE02,05:54,24:00,Limitaciones en el suministro de gas
+2005-08-26,VHE,G,VHE03,00:24,02:00,Limitaciones en el suministro de gas
+2005-08-26,VHE,G,VHE03,05:54,06:16,Limitaciones en el suministro de gas
+2005-08-26,VHE,G,VHE04,00:00,02:00,Limitaciones en el suministro de gas
+2005-08-26,VHE,G,VHE04,05:54,06:57,Limitaciones en el suministro de gas
+2005-08-26,VHE,G,VHE04,10:38,17:53,Limitaciones en el suministro de gas
+2005-08-26,VHE,G,VHE04,23:21,24:00,Limitaciones en el suministro de gas
+2005-08-26,COBEE,G,KEN01,00:34,06:03,Limitaciones en el suministro de gas
+2005-08-26,COBEE,G,KEN02,00:00,19:03,Limitaciones en el suministro de gas
+2005-08-26,COBEE,G,KEN01,19:11,24:00,Limitaciones en el suministro de gas
+2005-08-26,COBEE,G,KEN02,20:13,24:00,Limitaciones en el suministro de gas
+2005-08-25,VHE,G,VHE01,00:00,04:00,Limitaciones en el suministro de gas
+2005-08-25,VHE,,VHE01,04:58,24:00,Limitaciones en el suministro de gas
+2005-08-25,VHE,G,VHE02,00:00,04:00,Limitaciones en el suministro de gas
+2005-08-25,VHE,,VHE02,04:58,10:57,Limitaciones en el suministro de gas
+2005-08-25,VHE,G,VHE02,19:21,24:00,Limitaciones en el suministro de gas
+2005-08-25,VHE,G,VHE03,00:30,04:00,Limitaciones en el suministro de gas
+2005-08-25,VHE,,VHE03,04:58,05:52,Limitaciones en el suministro de gas
+2005-08-25,VHE,G,VHE04,00:00,04:00,Limitaciones en el suministro de gas
+2005-08-25,VHE,,VHE04,04:58,07:00,Limitaciones en el suministro de gas
+2005-08-25,VHE,G,VHE04,21:50,24:00,Limitaciones en el suministro de gas
+2005-08-25,COBEE,G,KEN01,00:21,05:00,Limitaciones en el suministro de gas
+2005-08-25,COBEE,,KEN01,05:53,08:17,Limitaciones en el suministro de gas
+2005-08-25,COBEE,G,KEN02,00:00,05:00,Limitaciones en el suministro de gas
+2005-08-25,COBEE,,KEN02,05:53,06:16,Limitaciones en el suministro de gas
+2005-08-25,COBEE,G,KEN02,10:00,14:16,Limitaciones en el suministro de gas
+2005-08-25,COBEE,G,KEN02,20:34,24:00,Limitaciones en el suministro de gas
+2005-08-24,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-08-24,VHE,G,VHE02,00:00,13:50,Limitaciones en el suministro de gas
+2005-08-24,VHE,G,VHE02,23:38,24:00,Limitaciones en el suministro de gas
+2005-08-24,VHE,G,VHE03,00:20,05:39,Limitaciones en el suministro de gas
+2005-08-24,VHE,G,VHE04,00:00,06:38,Limitaciones en el suministro de gas
+2005-08-24,VHE,G,VHE04,23:57,24:00,Limitaciones en el suministro de gas
+2005-08-24,COBEE,G,KEN01,00:00,06:02,Limitaciones en el suministro de gas
+2005-08-24,COBEE,G,KEN02,00:31,06:00,Limitaciones en el suministro de gas
+2005-08-24,COBEE,G,KEN02,10:35,24:00,Limitaciones en el suministro de gas
+2005-08-23,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-08-23,VHE,G,VHE02,00:00,14:48,Limitaciones en el suministro de gas
+2005-08-23,VHE,G,VHE02,23:29,24:00,Limitaciones en el suministro de gas
+2005-08-23,VHE,G,VHE04,00:22,06:14,Limitaciones en el suministro de gas
+2005-08-23,VHE,G,VHE04,23:56,24:00,Limitaciones en el suministro de gas
+2005-08-23,COBEE,G,KEN01,00:00,06:00,Limitaciones en el suministro de gas
+2005-08-23,COBEE,G,KEN01,10:55,24:00,Limitaciones en el suministro de gas
+2005-08-23,COBEE,G,KEN02,00:00,06:06,Limitaciones en el suministro de gas
+2005-09-30,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-30,VHE,G,VHE02,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-30,COBEE,G,KEN01,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-30,EGSA,G,ARJ06,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-30,COBEE,G,KEN02,11:02,18:21,Limitaciones en el suministro de gas
+2005-09-30,VHE,G,VHE04,12:26,24:00,Limitaciones en el suministro de gas
+2005-09-30,COBEE,G,KEN02,22:39,24:00,Limitaciones en el suministro de gas
+2005-09-29,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-29,VHE,G,VHE02,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-29,COBEE,G,KEN01,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-29,EGSA,G,ARJ06,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-29,COBEE,G,KEN02,00:00,10:12,Limitaciones en el suministro de gas
+2005-09-28,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-28,VHE,G,VHE02,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-28,COBEE,G,KEN01,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-28,EGSA,G,ARJ06,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-28,COBEE,G,KEN02,22:07,24:00,Limitaciones en el suministro de gas
+2005-09-27,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-27,VHE,G,VHE02,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-27,COBEE,G,KEN01,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-27,EGSA,G,ARJ06,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-27,VHE,G,VHE03,00:00,10:37,Limitaciones en el suministro de gas
+2005-09-27,VHE,G,VHE04,00:00,18:24,Limitaciones en el suministro de gas
+2005-09-27,COBEE,G,KEN02,00:00,10:14,Limitaciones en el suministro de gas
+2005-09-26,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-26,VHE,G,VHE02,00:00,05:46,Limitaciones en el suministro de gas
+2005-09-26,VHE,G,VHE02,22:04,24:00,Limitaciones en el suministro de gas
+2005-09-26,VHE,G,VHE03,05:46,24:00,Limitaciones en el suministro de gas
+2005-09-26,VHE,G,VHE04,22:13,24:00,Limitaciones en el suministro de gas
+2005-09-26,COBEE,G,KEN02,00:00,15:01,Limitaciones en el suministro de gas
+2005-09-26,COBEE,G,KEN02,16:12,24:00,Limitaciones en el suministro de gas
+2005-09-26,EGSA,G,ARJ06,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-26,COBEE,G,KEN01,22:09,24:00,Limitaciones en el suministro de gas
+2005-09-25,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-25,VHE,G,VHE02,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-25,COBEE,G,KEN02,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-25,EGSA,G,ARJ06,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-24,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-24,VHE,G,VHE02,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-24,COBEE,G,KEN02,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-24,EGSA,G,ARJ06,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-23,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-23,VHE,G,VHE02,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-23,COBEE,G,KEN02,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-23,EGSA,G,ARJ06,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-22,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-22,VHE,G,VHE02,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-22,COBEE,G,KEN02,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-22,EGSA,G,ARJ06,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-21,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-21,VHE,G,VHE02,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-21,COBEE,G,KEN02,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-21,EGSA,G,ARJ06,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-20,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-20,VHE,G,VHE02,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-20,COBEE,G,KEN01,00:00,06:16,Limitaciones en el suministro de gas
+2005-09-20,COBEE,G,KEN02,06:16,24:00,Limitaciones en el suministro de gas
+2005-09-20,EGSA,G,ARJ06,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-19,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-19,VHE,G,VHE02,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-19,COBEE,G,KEN01,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-19,EGSA,G,ARJ06,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-18,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-18,VHE,G,VHE02,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-18,COBEE,G,KEN02,00:00,23:46,Limitaciones en el suministro de gas
+2005-09-18,EGSA,G,ARJ06,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-18,COBEE,G,KEN01,23:46,24:00,Limitaciones en el suministro de gas
+2005-09-17,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-17,VHE,G,VHE02,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-17,COBEE,G,KEN01,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-17,EGSA,G,ARJ06,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-16,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-16,VHE,G,VHE02,00:00,06:37,Limitaciones en el suministro de gas
+2005-09-16,VHE,G,VHE04,06:37,24:00,Limitaciones en el suministro de gas
+2005-09-16,COBEE,G,KEN01,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-16,EGSA,G,ARJ06,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-15,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-15,VHE,G,VHE02,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-15,COBEE,G,KEN01,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-15,EGSA,G,ARJ06,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-14,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-14,VHE,G,VHE02,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-14,EGSA,G,ARJ06,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-13,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-13,VHE,G,VHE02,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-13,EGSA,G,ARJ06,00:00,05:48,Limitaciones en el suministro de gas
+2005-09-13,EGSA,G,ARJ06,07:51,24:00,Limitaciones en el suministro de gas
+2005-09-12,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-12,VHE,G,VHE02,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-12,EGSA,G,ARJ06,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-12,COBEE,G,KEN02,00:06,15:46,Limitaciones en el suministro de gas
+2005-09-12,COBEE,G,KEN02,22:04,24:00,Limitaciones en el suministro de gas
+2005-09-11,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-11,VHE,G,VHE02,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-11,EGSA,G,ARJ06,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-10,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-10,VHE,G,VHE02,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-10,COBEE,G,KEN02,00:00,12:21,Limitaciones en el suministro de gas
+2005-09-10,EGSA,G,ARJ06,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-09,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-09,VHE,G,VHE02,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-09,COBEE,G,KEN02,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-09,EGSA,G,ARJ06,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-08,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-08,VHE,G,VHE02,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-08,COBEE,G,KEN02,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-08,EGSA,G,ARJ06,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-07,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-07,VHE,G,VHE02,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-07,COBEE,G,KEN02,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-07,EGSA,G,ARJ06,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-07,TDE,T,COR - VHE115,01:05,02:25,Cambio de borneras de los PTs en barra de 115 Kv de C. Corani
+2005-09-07,TDE,T,COR - SIS115,01:12,02:20,Cambio de borneras de los PTs en barra de 115 Kv de C. Corani
+2005-09-06,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-06,VHE,G,VHE02,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-06,COBEE,G,KEN02,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-06,EGSA,G,ARJ01,00:00,05:46,Limitaciones en el suministro de gas
+2005-09-06,EGSA,G,ARJ02,00:00,05:47,Limitaciones en el suministro de gas
+2005-09-06,EGSA,G,ARJ03,00:00,05:52,Limitaciones en el suministro de gas
+2005-09-06,EGSA,G,ARJ05,00:00,05:54,Limitaciones en el suministro de gas
+2005-09-06,EGSA,G,ARJ06,00:00,06:01,Limitaciones en el suministro de gas
+2005-09-06,EGSA,G,ARJ01,08:37,15:59,Limitaciones en el suministro de gas
+2005-09-06,EGSA,G,ARJ02,08:34,16:00,Limitaciones en el suministro de gas
+2005-09-06,EGSA,G,ARJ03,08:32,16:02,Limitaciones en el suministro de gas
+2005-09-06,EGSA,G,ARJ05,08:29,16:03,Limitaciones en el suministro de gas
+2005-09-06,EGSA,G,ARJ06,08:28,16:05,Limitaciones en el suministro de gas
+2005-09-06,EGSA,G,ARJ06,19:54,24:00,Limitaciones en el suministro de gas
+2005-09-05,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-05,VHE,G,VHE02,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-05,VHE,G,VHE03,02:09,05:46,Limitaciones en el suministro de gas
+2005-09-05,VHE,G,VHE04,00:00,17:18,Limitaciones en el suministro de gas
+2005-09-05,COBEE,G,KEN02,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-05,EGSA,G,ARJ01,00:00,18:39,Limitaciones en el suministro de gas
+2005-09-05,EGSA,G,ARJ01,21:20,24:00,Limitaciones en el suministro de gas
+2005-09-05,EGSA,G,ARJ02,00:00,18:47,Limitaciones en el suministro de gas
+2005-09-05,EGSA,G,ARJ02,20:32,24:00,Limitaciones en el suministro de gas
+2005-09-05,EGSA,G,ARJ03,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-05,EGSA,G,ARJ05,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-05,EGSA,G,ARJ06,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-04,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-04,VHE,G,VHE02,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-04,VHE,G,VHE04,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-04,COBEE,G,KEN01,00:00,14:04,Limitaciones en el suministro de gas
+2005-09-04,COBEE,G,KEN02,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-04,EGSA,G,ARJ01,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-04,EGSA,G,ARJ02,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-04,EGSA,G,ARJ03,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-04,EGSA,G,ARJ05,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-04,EGSA,G,ARJ06,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-03,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-03,VHE,G,VHE02,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-03,VHE,G,VHE04,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-03,COBEE,G,KEN01,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-03,COBEE,G,KEN02,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-03,EGSA,G,ARJ01,00:00,18:57,Limitaciones en el suministro de gas
+2005-09-03,EGSA,G,ARJ02,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-03,EGSA,G,ARJ03,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-03,EGSA,G,ARJ05,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-03,EGSA,G,ARJ06,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-03,COBEE,G,ARJ01,21:12,24:00,Limitaciones en el suministro de gas
+2005-09-02,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-02,VHE,G,VHE02,00:00,16:56,Limitaciones en el suministro de gas
+2005-09-02,VHE,G,VHE03,00:00,06:09,Limitaciones en el suministro de gas
+2005-09-02,VHE,G,VHE04,00:00,06:32,Limitaciones en el suministro de gas
+2005-09-02,COBEE,G,KEN01,00:00,09:00,Limitaciones en el suministro de gas
+2005-09-02,COBEE,G,KEN01,15:56,24:00,Limitaciones en el suministro de gas
+2005-09-02,COBEE,G,KEN02,08:32,09:00,Limitaciones en el suministro de gas
+2005-09-02,COBEE,G,KEN02,15:56,24:00,Limitaciones en el suministro de gas
+2005-09-02,VHE,G,VHE02,21:12,24:00,Limitaciones en el suministro de gas
+2005-09-02,VHE,G,VHE04,22:49,24:00,Limitaciones en el suministro de gas
+2005-09-01,VHE,G,VHE01,00:00,18:10,Limitaciones en el suministro de gas
+2005-09-01,VHE,G,VHE02,00:00,10:08,Limitaciones en el suministro de gas
+2005-09-01,VHE,G,VHE03,00:15,08:28,Limitaciones en el suministro de gas
+2005-09-01,VHE,G,VHE04,00:00,06:51,Limitaciones en el suministro de gas
+2005-09-01,COBEE,G,KEN01,00:00,24:00,Limitaciones en el suministro de gas
+2005-09-01,VHE,G,VHE01,20:11,24:00,Limitaciones en el suministro de gas
+2005-09-01,VHE,G,VHE02,22:38,24:00,Limitaciones en el suministro de gas
+2005-09-01,VHE,G,VHE03,23:44,24:00,Limitaciones en el suministro de gas
+2005-09-01,VHE,G,VHE04,23:20,24:00,Limitaciones en el suministro de gas
+2005-10-31,COBEE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-31,VHE,G,VHE03,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-31,COBEE,G,KEN02,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-30,VHE,G,VHE01,00:00,11:27,Limitaciones en el suministro de gas
+2005-10-30,VHE,G,VHE03,00:00,11:27,Limitaciones en el suministro de gas
+2005-10-30,COBEE,G,KEN01,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-29,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-29,VHE,G,VHE03,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-29,COBEE,G,KEN01,00:00,10:51,Limitaciones en el suministro de gas
+2005-10-29,COBEE,G,KEN01,16:09,24:00,Limitaciones en el suministro de gas
+2005-10-28,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-28,VHE,G,VHE03,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-28,COBEE,G,KEN01,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-27,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-27,VHE,G,VHE03,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-27,COBEE,G,KEN02,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-26,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-26,VHE,G,VHE03,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-26,COBEE,G,KEN02,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-25,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-25,VHE,G,VHE03,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-25,COBEE,G,KEN01,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-24,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-24,VHE,G,VHE02,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-24,COBEE,G,KEN01,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-23,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-23,VHE,G,VHE02,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-23,COBEE,G,KEN01,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-22,VHE,G,VHE03,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-22,COBEE,G,KEN01,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-22,VHE,G,VHE04,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-21,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-21,COBEE,G,KEN02,00:00,03:00,Limitaciones en el suministro de gas
+2005-10-21,VHE,G,VHE03,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-21,COBEE,G,KEN01,03:06,12:19,Limitaciones en el suministro de gas
+2005-10-21,COBEE,G,KEN02,12:07,21:46,Limitaciones en el suministro de gas
+2005-10-21,COBEE,G,KEN01,21:39,24:00,Limitaciones en el suministro de gas
+2005-10-20,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-20,COBEE,G,KEN02,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-20,VHE,G,VHE03,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-19,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-19,COBEE,G,KEN02,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-19,VHE,G,VHE04,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-18,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-18,COBEE,G,KEN02,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-18,VHE,G,VHE02,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-17,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-17,COBEE,G,KEN02,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-17,VHE,G,VHE04,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-16,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-16,COBEE,G,KEN02,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-16,VHE,G,VHE02,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-15,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-15,COBEE,G,KEN02,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-15,VHE,G,VHE03,16:07,24:00,Limitaciones en el suministro de gas
+2005-10-14,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-14,COBEE,G,KEN02,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-13,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-13,COBEE,G,KEN02,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-12,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-12,COBEE,G,KEN02,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-11,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-11,COBEE,G,KEN01,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-10,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-10,COBEE,G,KEN01,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-09,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-09,VHE,G,VHE03,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-09,COBEE,G,KEN02,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-08,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-08,VHE,G,VHE03,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-08,COBEE,G,KEN02,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-07,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-07,VHE,G,VHE02,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-07,COBEE,G,KEN02,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-07,TDE,T,CHI-SJO230,16:34,16:39,Activación DAG/DAC en S/E SJO
+2005-10-07,TDE,T,CAR-CHI230,16:34,16:39,Activación DAG/DAC en S/E SJO
+2005-10-06,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-06,VHE,G,VHE02,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-06,COBEE,G,KEN01,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-05,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-05,VHE,G,VHE02,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-05,COBEE,G,KEN01,00:00,12:57,Limitaciones en el suministro de gas
+2005-10-05,COBEE,G,KEN02,12:47,24:00,Limitaciones en el suministro de gas
+2005-10-04,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-04,VHE,G,VHE02,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-04,COBEE,G,KEN01,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-03,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas.
+2005-10-03,VHE,G,VHE02,00:00,24:00,Limitaciones en el suministro de gas.
+2005-10-03,COBEE,G,KEN01,00:00,24:00,Limitaciones en el suministro de gas.
+2005-10-02,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-02,VHE,G,VHE02,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-02,COBEE,G,KEN01,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-02,EGSA,G,ARJ06,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-01,VHE,G,VHE01,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-01,VHE,G,VHE02,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-01,VHE,G,VHE04,00:00,14:52,Limitaciones en el suministro de gas
+2005-10-01,COBEE,G,KEN01,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-01,EGSA,G,ARJ06,00:00,24:00,Limitaciones en el suministro de gas
+2005-10-01,COBEE,G,KEN02,00:00,10:22,Limitaciones en el suministro de gas
+2005-12-22,VHE,G,VHE01,00:00,08:09,Por medición de parámetros de reguladores de velocidad y voltaje
+2005-12-22,VHE,G,VHE01,08:09,13:39,Montaje de transformador de tensión capacitivo en las tres fases por parte de TDE
+2005-12-22,VHE,G,VHE02,08:09,13:39,Montaje de transformador de tensión capacitivo en las tres fases por parte de TDE
+2005-12-22,VHE,G,VHE03,08:09,13:39,Montaje de transformador de tensión capacitivo en las tres fases por parte de TDE
+2005-12-22,VHE,G,VHE04,08:09,13:39,Montaje de transformador de tensión capacitivo en las tres fases por parte de TDE
+2005-12-21,VHE,G,VHE01,00:00,24:00,"Medición de parámetros de reguladores de velocidad, voltaje y trabajos programados de TDE en CCPD de línea C. VHE."
+2005-12-16,TDE,T,COR-SIS115,00:05,06:48,Mantenimiento general barra 115 kV S/E COR.
+2005-12-16,TDE,T,COR-VHE115,00:05,06:47,Mantenimiento general barra 115 kV S/E COR.
+2006-01-15,ELFEC,D,S/E Irpa Irpa (0.4 MW),07:00,07:06,"Transferencia de carga al alimentador Q5, por trabajos programados de COBOCE."
+2006-01-15,ELFEC,D,S/E Irpa Irpa (0.4 MW),16:25,16:30,"Reposición de la carga del alimentador Q5, por trabajos programados de COBOCE."
+2006-01-08,TDE,T,COR-SIS115,06:48,08:26,Pruebas de simultaneidad de cierre del seccionador 115 KV de la unidad Nº 2.
+2006-01-08,TDE,T,COR-VHE115,06:48,08:26,Pruebas de simultaneidad de cierre del seccionador 115 KV de la unidad Nº 2.
+2006-01-04,COBEE,G,CHU02,16:58,17:02,"En Sistema en calidad de prueba (2 MW), la potencia es compensada en CAH01"
+2006-01-02,CECBB,G,BUL02,16:22,16:29,"En Sistema en calidad de prueba (11.3 MW), se lleva reserva en BUL01"
+2006-05-10,TDE,T,KAR-POT069,08:04,12:55,Mantenimiento correctivo (vandalismo).
+2006-06-02,COBEE,G,ANG01,10:20,11:54,Trabajos de emergencia en S/E HUY.
+2006-06-02,COBEE,G,ANG02,10:20,11:54,Trabajos de emergencia en S/E HUY.
+2006-06-02,COBEE,G,CHO01,10:20,11:54,Trabajos de emergencia en S/E HUY.
+2006-06-02,COBEE,G,CHO02,10:20,11:54,Trabajos de emergencia en S/E HUY.
+2006-06-02,COBEE,G,CHO03,10:20,11:54,Trabajos de emergencia en S/E HUY.
+2006-06-02,COBEE,G,CRB,10:20,11:54,Trabajos de emergencia en S/E HUY.
+2006-08-21,CRE,T,GCH-VIR069,00:00,10:49,Maniobras por trabajos en barra en 69 kV. Ampliación GCH11.
+2006-08-20,CRE,T,GCH-VIR069,00:00,24:00,Conexión de la barra alta de by pass con un polo del seccionador de barra principal y un polo de seccionador de by pass en 69 kV S/E GCH. Ampliación GCH11
+2006-08-20,CRE,T,GCH-PMA069,04:42,18:03,Conexión de la barra alta de by pass con un polo del seccionador de barra principal y un polo de seccionador de by pass en 69 kV S/E GCH. Ampliación GCH11
+2006-08-20,CRE,T,GCH-TRO069,04:29,17:40,Conexión de la barra alta de by pass con un polo del seccionador de barra principal y un polo de seccionador de by pass en 69 kV S/E GCH. Ampliación GCH11
+2006-08-20,CRE,T,GCH-ZOO069,04:57,17:41,Conexión de la barra alta de by pass con un polo del seccionador de barra principal y un polo de seccionador de by pass en 69 kV S/E GCH. Ampliación GCH11
+2006-08-19,ELFEC,D,Alim. I2 (0.1 MW) S/E IRP.,06:30,06:33,Transferencia de carga al Alim. Q5 por trabajos en la línea en 115 kV CAT-VHE
+2006-08-19,CRE,T,NJE-ZOO069,14:03,15:03,Maniobras por trabajos en barra en 69 kV. Ampliación GCH11
+2006-08-19,CRE,T,GCH-VIR069,15:04,24:00,Maniobras por trabajos en barra en 69 kV. Ampliación GCH11
+2006-09-30,COBEE,G,KEN01,00:00,24:00,"Opera con su potencia en mínimo técnico (6MW), debido a baja presión en el suministro de gas natural."
+2006-09-30,COBEE,G,KEN02,00:00,00:46,"Opera con su potencia en mínimo técnico (6MW), debido a baja presión en el suministro de gas natural."
+2006-09-30,VHE,G,VHE01,00:00,24:00,Restricciones en el suministro de gas natural.
+2006-09-30,EGSA,G,KAR,05:00,23:00,"Restricciones en el suministro de gas, por trabajos de mantenimiento en gasoducto GTC."
+2006-09-29,COBEE,G,KEN01,07:05,24:00,"Opera con su potencia en mínimo técnico (6MW), debido a baja presión en el suministro de gas natural."
+2006-09-29,COBEE,G,KEN02,09:04,24:00,"Opera con su potencia en mínimo técnico (6MW), debido a baja presión en el suministro de gas natural."
+2006-09-29,VHE,G,VHE01,14:35,24:00,Restricción en el suministro de gas natural.
+2006-09-27,COBEE,G,KEN01,00:00,02:33,"Opera con potencia limitada de 6 MW, por baja presión en el suministro de gas"
+2006-09-26,COBEE,G,KEN01,00:00,08:21,"Opera con potencia limitada de 6 MW, por baja presión en el suministro de gas"
+2006-09-26,COBEE,G,KEN01,17:00,24:00,"Opera con potencia limitada de 6 MW, por baja presión en el suministro de gas"
+2006-09-25,COBEE,G,KEN01,18:18,24:00,"Opera con potencia limitada de 6 MW, por baja presión en el suministro de gas"
+2006-09-18,EGSA,G,ARJ11,18:19,20:29,Baja presión en el suminstro de gas
+2006-09-18,EGSA,G,ARJ12,18:19,19:56,Baja presión en el suminstro de gas
+2006-09-18,EGSA,G,ARJ10,19:55,20:50,Baja presión en el suminstro de gas
+2006-09-18,EGSA,G,ARJ11,21:00,22:57,Baja presión en el suminstro de gas
+2006-09-18,EGSA,G,ARJ12,20:25,20:29,Baja presión en el suminstro de gas
+2006-09-18,EGSA,G,ARJ10,20:50,22:57,Baja presión en el suminstro de gas
+2006-09-18,EGSA,G,ARJ12,20:49,22:57,Baja presión en el suminstro de gas
+2006-09-17,COBEE,G,KEN01,00:00,09:30,Baja presión en el suministro de gas natural.
+2006-09-16,COBEE,G,KEN01,00:00,24:00,Baja presión en el suministro de gas natural.
+2006-09-15,COBEE,G,KEN01,00:00,24:00,Baja presión en el suministro de gas natural.
+2006-09-15,COBEE,G,KEN02,00:00,11:19,"Operación con potencia limitada (6.8 MW), por baja presión en el suministro de gas natural."
+2006-09-14,COBEE,G,KEN01,00:00,24:00,Baja presión en el suministro de gas natural.
+2006-09-14,COBEE,G,KEN02,00:00,12:36,"Operación con potencia limitada (8 MW), por baja presión en el suministro de gas natural."
+2006-09-14,COBEE,G,KEN02,12:54,24:00,"Operación con potencia limitada (6.8 MW), por baja presión en el suministro de gas natural."
+2006-09-13,COBEE,G,KEN01,17:38,24:00,Disparo por baja presión de gas.
+2006-09-13,COBEE,G,KEN01,00:00,17:38,"Opera con potencia limitada de 6 MW, por baja presión de gas"
+2006-09-13,COBEE,G,KEN02,00:00,17:38,"Opera con potencia limitada de 6 MW, por baja presión de gas"
+2006-09-13,COBEE,G,KEN02,20:05,24:00,"Opera con potencia limitada de 8 MW, por baja presión de gas"
+2006-10-22,TDE,T,COR-VHE115,06:13,10:45,Programado
+2006-10-22,TDE,T,COR-SIS115,06:14,10:44,Programado
+2006-10-14,SYNERGIA,G,Sistema Escalerani,13:40,14:00,Aportes laterales de agua mayores a los previstos.
+2006-10-13,SYNERGIA,G,Sistema Escalerani,12:58,14:00,Aportes laterales mayores a los previstos
+2006-10-11,SYNERGIA,G,KAN,00:00,17:32,Convulsión social.
+2006-10-10,SYNERGIA,G,KAN,00:00,24:00,Convulsión social.
+2006-10-09,SYNERGIA,G,KAN,11:30,24:00,Convulsión social.
+2006-10-01,VHE,G,VHE01,00:00,14:13,Restricciones en el suministro de gas natural.
+2006-11-29,COBEE,G,KEN01,15:01,15:57,"Opera en calidad de prueba (8 MW) para pruebas de emisión de Nox, la reserva es compensada en unidades CHU01, CHU02 y TIQ."
+2006-11-29,COBEE,G,KEN02,16:03,16:53,"Opera en calidad de prueba (8 MW) para pruebas de emisión de Nox, la reserva es compensada en unidades CHU01, CHU02 y TIQ."
+2006-11-29,COBEE,G,SRO02,16:44,17:05,"Opera en calidad de prueba (1.3 MW), la reserva es compensada en unidades CHU01, CHU02."
+2006-11-29,COBEE,G,CUT03,19:32,20:34,"Opera en calidad de prueba (2.2 MW), la reserva es compensada en unidades HAR01, HAR02 y CUT05."
+2006-11-16,COBEE,T,BOL-COT115,02:00,02:42,Trabajos de reparación transformador de potencia en S/E Cota Cota
+2006-11-16,COBEE,T,COT-KEN115,02:03,03:15,Trabajos de reparación transformador de potencia en S/E Cota Cota
+2006-11-16,VHE,G,VHE01,03:06,03:16,Falla en sistema de distribución
+2006-11-16,VHE,G,VHE03,03:06,03:16,Falla en sistema de distribución
+2006-11-16,VHE,G,VHE04,03:06,03:16,Falla en sistema de distribución
+2007-01-28,CORANI,G,SIS01,16:45,17:00,Desconexión línea en 230 kV SJO - CAR.
+2007-01-28,CORANI,G,SIS03,16:45,17:00,Desconexión línea en 230 kV SJO - CAR.
+2007-01-28,CORANI,G,SIS05,16:45,17:00,Desconexión línea en 230 kV SJO - CAR.
+2007-01-21,TDE,T,MAZ-KEN115,08:32,08:51,Requerimiento del Sistema para observación del Área Norte.
+2007-01-09,SYNERGIA,G,KAN,11:45,19:11,Convulsión social
+2007-01-02,ELFEO,T,AVI-BLV069,17:14,18:17,Trabajos correctivos de emergencia en S/E CSG
+2007-01-02,ELFEO,T,CSG-BLV069,17:14,18:17,Trabajos correctivos de emergencia en S/E CSG
+2007-01-02,ELFEO,T,AVI-QLC069,17:14,18:17,Trabajos correctivos de emergencia en S/E CSG
+2007-01-02,ELFEO,T,TRCSG069,17:14,18:17,Trabajos correctivos de emergencia en S/E CSG
+2007-01-02,ELFEO,T,TRAVI06901,17:14,18:17,Trabajos correctivos de emergencia en S/E CSG
+2007-01-02,ELFEO,T,TRAVI06902,17:14,18:17,Trabajos correctivos de emergencia en S/E CSG
+2007-01-02,ELFEO,T,TRBLV069,17:14,18:17,Trabajos correctivos de emergencia en S/E CSG
+2007-01-02,ELFEO,T,TRQLC069,17:14,18:17,Trabajos correctivos de emergencia en S/E CSG
+2007-01-02,ELFEO,T,ATBLV069,17:14,18:17,Trabajos correctivos de emergencia en S/E CSG
+2007-04-22,TESA,T,PUN-SCR230,00:00,18:14,Pruebas de esquemas de recierre en subestación Punutuma (ISABOL).
+2007-04-22,TESA,T,RESCR23001,00:00,18:14,Pruebas de esquemas de recierre en subestación Punutuma (ISABOL).
+2007-04-22,TESA,T,RESCR23002,00:00,18:14,Pruebas de esquemas de recierre en subestación Punutuma (ISABOL).
+2007-04-22,MSCR,CNR,TRSCR23001,00:00,18:14,Pruebas de esquemas de recierre en subestación Punutuma (ISABOL).
+2007-04-22,MSCR,CNR,TRSCR23002,00:00,18:14,Pruebas de esquemas de recierre en subestación Punutuma (ISABOL).
+2007-04-21,TESA,T,PUN-SCR230,17:30,24:00,Pruebas de esquemas de recierre en subestación Punutuma (ISABOL).
+2007-04-21,TESA,T,RESCR23001,17:30,24:00,Pruebas de esquemas de recierre en subestación Punutuma (ISABOL).
+2007-04-21,TESA,T,RESCR23002,17:30,24:00,Pruebas de esquemas de recierre en subestación Punutuma (ISABOL).
+2007-04-21,MSCR,CNR,TRSCR23001,17:30,24:00,Pruebas de esquemas de recierre en subestación Punutuma (ISABOL).
+2007-04-21,MSCR,CNR,TRSCR23002,17:30,24:00,Pruebas de esquemas de recierre en subestación Punutuma (ISABOL).
+2007-04-08,VHE,G,VHE01,08:03,13:11,"S/E VHE, mantenimiento de equipos de salida a turbinas de empresa VHE."
+2007-04-08,VHE,G,VHE02,08:03,13:11,"S/E VHE, mantenimiento de equipos de salida a turbinas de empresa VHE."
+2007-04-08,VHE,G,VHE03,08:03,13:11,"S/E VHE, mantenimiento de equipos de salida a turbinas de empresa VHE."
+2007-04-08,VHE,G,VHE04,08:03,13:11,"S/E VHE, mantenimiento de equipos de salida a turbinas de empresa VHE."
+2007-05-20,VHE,G,VHE01,08:01,11:10,"Mantenimiento TDE, en protecciones entre S/E VHE y turbinas."
+2007-05-20,VHE,G,VHE02,08:01,11:10,"Mantenimiento TDE, en protecciones entre S/E VHE y turbinas."
+2007-05-20,VHE,G,VHE03,08:01,11:10,"Mantenimiento TDE, en protecciones entre S/E VHE y turbinas."
+2007-05-20,VHE,G,VHE04,08:01,11:10,"Mantenimiento TDE, en protecciones entre S/E VHE y turbinas."
+2007-06-30,ISA,T,SUC-PUN230,06:06,17:33,Pruebas y puesta en marcha interdisparos en S/E Sucre.
+2007-06-30,ISA,T,SAN-SUC230,06:08,17:28,Pruebas y puesta en marcha interdisparos en S/E Sucre.
+2007-06-30,TESA,T,PUN-SCR230,05:59,24:00,"Pruebas de interdisparos, inspección y mantenimiento preventivo general."
+2007-06-30,TESA,T,RESCR23001,05:59,24:00,"Pruebas de interdisparos, inspección y mantenimiento preventivo general."
+2007-06-30,TESA,T,RESCR23002,05:59,24:00,"Pruebas de interdisparos, inspección y mantenimiento preventivo general."
+2007-06-30,ISA,T,ATSUC230,06:08,17:28,"Pruebas de interdisparos, inspección y mantenimiento preventivo general."
+2007-06-30,ISA,T,ATPUN230,06:10,17:30,"Pruebas de interdisparos, inspección y mantenimiento preventivo general."
+2007-06-30,ISA,T,RESUC23001,06:08,17:28,"Pruebas de interdisparos, inspección y mantenimiento preventivo general."
+2007-06-30,ISA,T,RESUC23002,06:08,17:28,"Pruebas de interdisparos, inspección y mantenimiento preventivo general."
+2007-06-30,ISA,T,REPUN23001,06:06,17:33,"Pruebas de interdisparos, inspección y mantenimiento preventivo general."
+2007-06-30,ISA,T,REPUN23002,06:06,17:33,"Pruebas de interdisparos, inspección y mantenimiento preventivo general."
+2007-06-24,COBEE,G,SRO02,00:00,14:09,Desvio de aguas en toma Coscapa (comunarios).
+2007-06-23,COBEE,G,SRO02,00:00,24:00,Desvio de aguas en toma Coscapa (comunarios).
+2007-06-22,COBEE,G,SRO02,00:00,24:00,Desvio de aguas en toma Coscapa (comunarios).
+2007-06-21,COBEE,G,SRO02,00:00,24:00,Desvio de aguas en toma Coscapa (comunarios).
+2007-06-20,COBEE,G,SRO02,00:00,24:00,Desvio de aguas en toma Coscapa (comunarios).
+2007-06-19,COBEE,G,SRO02,00:00,24:00,Desvio de aguas en toma Coscapa (comunarios).
+2007-06-18,COBEE,G,SRO02,00:00,24:00,Desvio de aguas en toma Coscapa (comunarios).
+2007-06-17,COBEE,G,SRO02,00:00,24:00,Desvio de aguas en toma Coscapa (comunarios).
+2007-06-17,ISABOL,T,SAN-SUC230,06:02,10:18,Por ampliación de la barra principal ( conexiones ) desenergización total
+2007-06-16,COBEE,G,SRO02,00:00,24:00,Desvio de aguas en toma Coscapa (comunarios).
+2007-06-15,COBEE,G,SRO02,00:00,24:00,Desvio de aguas en toma Coscapa por comunarios de la zona.
+2007-06-14,COBEE,G,SRO02,00:00,24:00,Desvio de aguas en toma Coscapa por comunarios de la zona.
+2007-06-13,COBEE,G,SRO02,00:00,24:00,Desvio de aguas en toma Coscapa por comunarios de la zona.
+2007-06-12,COBEE,G,SRO02,00:00,24:00,Desvio de aguas en toma Coscapa por comunarios de la zona.
+2007-06-11,COBEE,G,SRO02,00:00,24:00,Desvio de aguas en toma Coscapa por comunarios de la zona.
+2007-06-10,COBEE,G,SRO02,00:00,24:00,Desvio de aguas en toma Coscapa por comunarios de la zona.
+2007-06-09,COBEE,G,SRO02,00:00,24:00,Desvio de aguas en toma Coscapa por comunarios de la zona.
+2007-06-08,COBEE,G,SRO02,00:00,05:19,Desvio de aguas en toma Coscapa por comunarios de la zona.
+2007-06-08,COBEE,G,SRO02,08:56,19:09,Desvio de aguas en toma Coscapa por comunarios de la zona.
+2007-06-08,COBEE,G,SRO02,23:06,24:00,Desvio de aguas en toma Coscapa por comunarios de la zona.
+2007-06-07,COBEE,G,SRO02,14:52,24:00,Desvio de aguas en toma Coscapa por comunarios de la zona.
+2007-07-15,TDE,T,MAZ-VIC230,10:00,15:08,Reposición de cable de guardia por rotura a causa de nevada tramo Senkata.
+2007-07-02,ELFEC,D,Alim. Y6 (2.2 MW) S/E YPFB,13:13,13:15,Trabajos correctivos (cambio de aislador)
+2007-07-01,ISA,T,SUC-PUN230,06:00,17:31,Pruebas y puesta en marcha interdisparos en S/E Sucre.
+2007-07-01,ISA,T,SAN-SUC230,06:02,17:27,Pruebas y puesta en marcha interdisparos en S/E Sucre.
+2007-07-01,TESA,T,PUN-SCR230,00:00,18:08,"Pruebas de interdisparos, inspección y mantenimiento preventivo general."
+2007-07-01,TESA,T,RESCR23001,00:00,18:08,"Pruebas de interdisparos, inspección y mantenimiento preventivo general."
+2007-07-01,TESA,T,RESCR23002,00:00,18:08,"Pruebas de interdisparos, inspección y mantenimiento preventivo general."
+2007-07-01,ISA,T,ATSUC230,06:06,17:17,"Pruebas de interdisparos, inspección y mantenimiento preventivo general."
+2007-07-01,ISA,T,ATPUN230,06:03,17:18,"Pruebas de interdisparos, inspección y mantenimiento preventivo general."
+2007-07-01,ISA,T,RESUC23001,06:02,17:27,"Pruebas de interdisparos, inspección y mantenimiento preventivo general."
+2007-07-01,ISA,T,RESUC23002,06:02,17:27,"Pruebas de interdisparos, inspección y mantenimiento preventivo general."
+2007-07-01,ISA,T,REPUN23001,06:01,17:31,"Pruebas de interdisparos, inspección y mantenimiento preventivo general."
+2007-07-01,ISA,T,REPUN23002,06:01,17:31,"Pruebas de interdisparos, inspección y mantenimiento preventivo general."
+2007-08-19,ELFEC,D,S/E CHI (2.2MW),06:24,06:43,Mantenimiento programado de la línea en 230 kV CAR-SJO .
+2007-08-19,ELFEC,T,TRCHI230,06:24,06:43,Mantenimiento programado de la línea en 230 kV CAR-SJO .
+2007-08-19,ELFEC,T,TRCHI230,14:13,14:30,Mantenimiento programado de la línea en 230 kV CAR-SJO .
+2007-08-19,ELFEO,D,TRHUY069,07:48,17:21,Mantenimiento programado de la línea en 69 kV HUY-VLC.
+2007-08-19,ELFEO,D,TRVLC069,07:48,17:21,Mantenimiento programado de la línea en 69 kV HUY-VLC.
+2007-08-19,ELFEC,D,S/E CHI (2.35MW),14:13,14:30,Mantenimiento programado de la línea en 230 kV CAR-SJO .
+2007-08-18,SEPSA,T,TROCU115,08:04,13:19,Mantenimiento equipos de salida línea Potosí en subestación Catavi
+2007-08-11,TESA,T,PUN-SCR230,11:59,15:36,Revisión sistema de comunicaciones enlace SUC-PUN.
+2007-08-10,TDE,T,CHI-SJO230,11:28,11:33,Activación del DAC/DAG.
+2007-09-27,VHE,G,VHE01,19:25,22:33,Cierre de válvula del gasoducto al altiplano (sector Arani).
+2007-09-27,VHE,G,VHE02,19:35,20:21,Cierre de válvula del gasoducto al altiplano (sector Arani).
+2007-09-27,VHE,G,VHE03,19:30,20:21,Cierre de válvula del gasoducto al altiplano (sector Arani).
+2007-09-27,VHE,G,VHE04,19:26,22:33,Cierre de válvula del gasoducto al altiplano (sector Arani).
+2007-09-23,SEPSA,D,TROCU115,11:08,17:37,Mantenimiento línea CAT-POT115.
+2007-09-22,SEPSA,D,TROCU115,06:43,17:36,Mantenimiento línea CAT-POT115.
+2007-09-15,ELFEC,T,TRCHI230,06:30,06:42,Desconexión de la línea en 230 kV CAR-CHI.
+2007-09-15,ELFEC,D,Alim. T-1 (1.1 MW) S/E CHI.,06:30,06:44,Desconexión de la línea en 230 kV CAR-CHI.
+2007-09-15,ELFEC,D,Alim. T-2 (1.3 MW) S/E CHI.,06:30,06:45,Desconexión de la línea en 230 kV CAR-CHI.
+2007-09-12,ELFEC,T,TRCHI230,17:39,18:03,Cambio de estructura (Tramo de la línea San José - Chimoré).
+2007-09-12,ELFEC,D,Alim. T1 (1.78 MW) S/E CHI.,17:39,18:15,Cambio de estructura (Tramo de la línea San José - Chimoré).
+2007-09-12,ELFEC,D,Alim. T2 (1.43 MW) S/E CHI.,17:39,18:15,Cambio de estructura (Tramo de la línea San José - Chimoré).
+2007-09-08,ELFEC,D,TRCHI230,06:24,06:43,Trabajos programados en la línea SJO-CHI230
+2007-09-02,CORANI,G,COR01,07:00,14:18,Cambio de seccionador 12-b (hacia barras) en S/E Corani.
+2007-09-02,CORANI,G,COR02,07:00,14:18,Cambio de seccionador 12-b (hacia barras) en S/E Corani.
+2007-09-02,CORANI,G,COR03,07:00,14:18,Cambio de seccionador 12-b (hacia barras) en S/E Corani.
+2007-09-02,CORANI,G,COR04,07:00,14:18,Cambio de seccionador 12-b (hacia barras) en S/E Corani.
+2007-10-27,COBEE,G,Sistema Zongo,21:00,24:00,Mayores aportes a los previstos
+2007-10-27,HB,G,Sistema Taquesi,21:00,24:00,Mayores aportes a los previstos
+2007-10-22,CESSA,D,Alim. P. Industrial I (2.1 MW) S/E ARJ,06:45,06:58,Maniobras de transferencia de carga para realizar trabajos en S/E ARJ.
+2007-10-22,CESSA,D,Alim. P. Industrial I (2.1 MW) S/E ARJ,14:12,14:21,Maniobras de transferencia de carga para realizar trabajos en S/E ARJ.
+2007-10-22,EGSA,G,ARJ05,06:49,14:05,Instalación de interruptores de CESSA en barras de 10.5 kV.
+2007-10-22,EGSA,G,ARJ06,06:49,14:05,Instalación de interruptores de CESSA en barras de 10.5 kV.
+2007-10-22,EGSA,G,ARJ09,06:29,14:35,Instalación de interruptores de CESSA en barras de 10.5 kV.
+2007-10-22,EGSA,G,ARJ10,06:30,15:13,Instalación de interruptores de CESSA en barras de 10.5 kV.
+2007-10-22,EGSA,G,ARJ12,06:31,16:30,Instalación de interruptores de CESSA en barras de 10.5 kV.
+2007-10-21,CESSA,D,Alim. Rural (0.7 MW) S/E ARJ,05:48,06:05,Maniobras de transferencia de carga para realizar trabajos en S/E ARJ.
+2007-10-21,CESSA,D,Alim. Rural (0.8 MW) S/E ARJ,09:29,09:41,Maniobras de transferencia de carga para realizar trabajos en S/E ARJ.
+2007-10-21,EGSA,G,ARJ01,05:51,09:13,Instalación de interruptores de CESSA en barras de 10.5 kV.
+2007-10-21,EGSA,G,ARJ02,05:51,09:13,Instalación de interruptores de CESSA en barras de 10.5 kV.
+2007-10-21,EGSA,G,ARJ03,05:51,09:13,Instalación de interruptores de CESSA en barras de 10.5 kV.
+2007-10-21,EGSA,G,ARJ05,05:50,09:19,Instalación de interruptores de CESSA en barras de 10.5 kV.
+2007-10-21,EGSA,G,ARJ06,05:50,09:19,Instalación de interruptores de CESSA en barras de 10.5 kV.
+2007-10-21,EGSA,G,ARJ09,05:25,09:19,Instalación de interruptores de CESSA en barras de 10.5 kV.
+2007-10-21,EGSA,G,ARJ10,05:25,09:19,Instalación de interruptores de CESSA en barras de 10.5 kV.
+2007-10-21,EGSA,G,ARJ11,05:26,09:19,Instalación de interruptores de CESSA en barras de 10.5 kV.
+2007-10-21,EGSA,G,ARJ12,05:27,09:19,Instalación de interruptores de CESSA en barras de 10.5 kV.
+2007-10-20,CESSA,D,Alim. Rural (0.7 MW) S/E ARJ,06:37,07:00,Maniobras de transferencia de carga para realizar trabajos en S/E ARJ.
+2007-10-20,EGSA,G,ARJ05,06:48,15:03,Instalación de interruptores de CESSA en barras de 10.5 kV.
+2007-10-20,EGSA,G,ARJ06,06:48,15:03,Instalación de interruptores de CESSA en barras de 10.5 kV.
+2007-10-20,EGSA,G,ARJ09,06:27,15:03,Instalación de interruptores de CESSA en barras de 10.5 kV.
+2007-10-20,EGSA,G,ARJ10,06:29,15:03,Instalación de interruptores de CESSA en barras de 10.5 kV.
+2007-10-20,EGSA,G,ARJ11,06:28,15:03,Instalación de interruptores de CESSA en barras de 10.5 kV.
+2007-10-20,EGSA,G,ARJ12,06:27,15:03,Instalación de interruptores de CESSA en barras de 10.5 kV.
+2007-11-29,COBEE,G,MIG01,00:00,16:45,Convulsión social
+2007-11-29,COBEE,G,MIG02,00:00,16:45,Convulsión social
+2007-11-29,COBEE,G,CHO02,00:00,16:45,Convulsión social
+2007-11-29,COBEE,G,CHO01,16:26,16:45,Normalización línea HUY - MIG069.
+2007-11-29,COBEE,G,CHO03,00:00,16:45,Convulsión social
+2007-11-29,COBEE,G,CRB,00:00,16:45,Convulsión social
+2007-11-29,COBEE,G,HUY-MIG069,00:00,16:45,Convulsión social
+2007-11-28,COBEE,G,MIG01,00:00,24:00,Convulsión social
+2007-11-28,COBEE,G,MIG02,00:00,24:00,Convulsión social
+2007-11-28,COBEE,G,CHO02,00:00,24:00,Convulsión social
+2007-11-28,COBEE,G,CHO03,00:00,24:00,Convulsión social
+2007-11-28,COBEE,G,CRB,00:00,24:00,Convulsión social
+2007-11-28,COBEE,G,HUY-MIG069,00:00,24:00,Convulsión social
+2007-11-27,COBEE,G,MIG01,00:00,24:00,Convulsión social
+2007-11-27,COBEE,G,MIG02,00:00,24:00,Convulsión social
+2007-11-27,COBEE,G,CHO01,00:00,17:57,Convulsión social
+2007-11-27,COBEE,G,CHO02,00:00,24:00,Convulsión social
+2007-11-27,COBEE,G,CHO03,00:00,24:00,Convulsión social
+2007-11-27,COBEE,G,CRB,00:00,24:00,Convulsión social
+2007-11-27,COBEE,G,HUY-MIG0069,00:00,24:00,Convulsión social
+2007-11-26,COBEE,G,MIG01,20:24,24:00,Convulsión social
+2007-11-26,COBEE,G,MIG02,20:26,24:00,Convulsión social
+2007-11-26,COBEE,G,CHO01,21:02,24:00,Convulsión social
+2007-11-26,COBEE,G,CHO02,21:02,24:00,Convulsión social
+2007-11-26,COBEE,G,CHO03,21:03,24:00,Convulsión social
+2007-11-26,COBEE,G,CRB,21:06,24:00,Convulsión social
+2007-11-26,COBEE,G,HUY-MIG0069,21:10,24:00,Convulsión social
+2007-11-20,ELFEC,D,TRCHI230,04:08,04:15,Desconexión línea en 230 kV CAR-SJO.
+2007-11-11,ELFEC,D,TRCHI230,05:56,06:10,Cambio de parrayos en S/E SJO
+2007-11-11,ELFEC,D,TRCHI230,11:20,11:30,Cambio de parrayos en S/E SJO
+2007-12-19,TESA,T,PUN - SCR230,12:14,12:25,Regulación de volatje en el área Sur y maniobras para restituir la línea SUC-PUN230.
+2007-12-19,TESA,T,PUN - SCR230,15:34,15:43,Regulación de volatje en el área Sur y maniobras para restituir la línea SUC-PUN230.
+2008-01-31,ELECTROPAZ,D,TRCOT115,11:55,12:03,Maniobras para seccionar el tramo de línea COT-BOL115 por socavación de una estructura.
+2008-01-27,SEPSA,T,TROCU115,15:52,15:57,Reconexión línea en 115 kV Catavi - Potosí.
+2008-01-04,ISABOL,T,SUC-PUN230,12:51,13:01,Esquema interdisparos
+2008-01-04,TESA,T,PUN-SCR230,12:51,13:11,Esquema interdisparos
+2008-01-04,MSCR,T,TRSCR23001,12:51,13:11,Esquema interdisparos
+2008-01-04,MSCR,T,TRSCR23002,12:51,13:12,Esquema interdisparos
+2008-02-01,ELECTROPAZ,D,TRCOT115,23:28,23:38,"Maniobras para reponer el tramo de línea COT-BOL115, por socavación de la estructura."
+2008-03-30,TDE,T,KAR-POT069,10:55,11:40,Desenergización a solicitud de SEPSA-Ingreso proyecto San Bartolomé
+2008-03-30,TDE,T,POT-PUN069,05:56,11:42,Desenergización a solicitud de SEPSA-Ingreso proyecto San Bartolomé
+2008-03-30,TDE,T,ATPOT115,10:55,11:33,Desenergización a solicitud de SEPSA-Ingreso proyecto San Bartolomé
+2008-03-30,TDE,T,OCU-POT115,10:55,11:33,Desenergización a solicitud de SEPSA-Ingreso proyecto San Bartolomé
+2008-03-30,TDE,T,CAT-OCU115,10:55,11:33,Desenergización a solicitud de SEPSA-Ingreso proyecto San Bartolomé
+2008-03-30,TDE,T,CPPOT069,10:55,11:33,Desenergización a solicitud de SEPSA-Ingreso proyecto San Bartolomé
+2008-03-29,EGSA,G,ARJ08,11:45,16:26,Reemplazo de PT`s de medición del punto de retiro del TRARJ06904 de CESSA.
+2008-03-29,EGSA,T,TRARJ06908,12:08,16:23,Reemplazo de PT`s de medición del punto de retiro del TRARJ06904 de CESSA.
+2008-03-16,CESSA,D,Alim. Rural (1.29 MW) S/E ARJ,05:57,06:04,Instalación de cables de poder para el proyecto Jenbacher II.
+2008-03-16,CESSA,D,Alim. Parque Industrial (0.55 MW) S/E ARJ,05:57,06:04,Instalación de cables de poder para el proyecto Jenbacher II.
+2008-03-16,CESSA,D,Alim. Rural (0.55 MW) S/E ARJ,12:20,12:22,Instalación de cables de poder para el proyecto Jenbacher II.
+2008-03-16,CESSA,D,Alim. Parque Industrial (0.88 MW) S/E ARJ,12:20,12:24,Instalación de cables de poder para el proyecto Jenbacher II.
+2008-04-27,TDE,T,ATMAZ230,05:00,08:56,Recableado del circuito de PT`s de la barra en 115 kV en S/E KEN
+2008-04-27,COBEE,G,COS-KEN115,04:31,09:16,Recableado del circuito de PT`s de la barra en 115 kV en S/E KEN
+2008-04-27,COBEE,G,COT-KEN115,04:55,08:47,Recableado del circuito de PT`s de la barra en 115 kV en S/E KEN
+2008-04-27,TDE,T,KEN-SEN11501,05:00,08:56,Recableado del circuito de PT`s de la barra en 115 kV en S/E KEN
+2008-04-27,TDE,T,KEN-SEN11502,05:00,08:56,Recableado del circuito de PT`s de la barra en 115 kV en S/E KEN
+2008-04-27,TDE,T,MAZ-VIC230,05:00,09:00,Recableado del circuito de PT`s de la barra en 115 kV en S/E KEN
+2008-04-27,TDE,T,SEN-MAZ115,05:00,08:56,Recableado del circuito de PT`s de la barra en 115 kV en S/E KEN
+2008-05-20,EGSA,G,ARJ10,13:25,13:54,"Opera en calidad de prueba (1.0 MW), la reserva es compensada en ARJ08."
+2008-05-20,EGSA,G,ARJ09,16:12,16:39,"Opera en calidad de prueba (1.0 MW), la reserva es compensada en ARJ08."
+2008-05-20,EGSA,G,ARJ09,21:11,21:25,"Opera en calidad de prueba (1.0 MW), la reserva es compensada en ARJ08."
+2008-05-19,EGSA,G,ARJ10,14:11,14:22,"Opera en calidad de prueba (1.0 MW), la reserva es compensada en ARJ08"
+2008-05-19,EGSA,G,ARJ10,17:08,17:15,"Opera en calidad de prueba (1.0 MW), la reserva es compensada en ARJ08"
+2008-05-19,EGSA,G,ARJ10,17:27,17:43,"Opera en calidad de prueba (1.0 MW), la reserva es compensada en ARJ08"
+2008-05-19,EGSA,G,ARJ09,20:31,20:43,"Opera en calidad de prueba (1.0 MW), la reserva es compensada en ARJ08"
+2008-05-18,EGSA,G,ARJ09,05:01,05:14,"Opera en calidad de prueba (1.3 MW), la reserva es compensada en ARJ08"
+2008-05-18,EGSA,G,ARJ09,07:43,07:46,"Opera en calidad de prueba (1.4 MW), la reserva es compensada en ARJ08"
+2008-05-18,EGSA,G,ARJ09,09:37,09:44,"Opera en calidad de prueba (1.2 MW), la reserva es compensada en ARJ08"
+2008-05-18,EGSA,G,ARJ09,09:58,10:02,"Opera en calidad de prueba (1 MW), la reserva es compensada en ARJ08"
+2008-05-18,EGSA,G,ARJ09,10:24,10:46,"Opera en calidad de prueba (1.4 MW), la reserva es compensada en ARJ08"
+2008-05-18,EGSA,G,ARJ10,11:58,12:04,"Opera en calidad de prueba (1 MW), la reserva es compensada en ARJ08"
+2008-05-18,EGSA,G,ARJ12,22:48,23:12,"Opera en calidad de prueba (1.5 MW), la reserva es compensada en ARJ08"
+2008-05-17,EGSA,G,ARJ10,21:19,21:26,"Opera en calidad de prueba (1.2 MW), la reserva es compensada en ARJ08"
+2008-05-17,EGSA,G,ARJ10,22:31,23:05,"Opera en calidad de prueba (1.4 MW), la reserva es compensada en ARJ08"
+2008-06-15,CRE,D,BVI-MON069,00:28,16:48,Trabajos puesta en servicio proyecto S/E Arboleda 230/115 kV.
+2008-08-05,TDE,T,COR-SIS115,08:06,14:50,Cambio de pararrayos de subestaciones y mantenimiento servicio local
+2008-08-05,TDE,T,COR-VHE115,08:06,15:12,Cambio de pararrayos de subestaciones y mantenimiento servicio local
+2008-10-24,SEPSA,D,POT-SBA069,11:58,12:17,Esquema interdisparos
+2008-10-24,ISABOL,T,ATURU230,08:34,11:49,Por trabajos programados de la CRE.
+2008-11-28,HB,G,CHJ,16:17,16:21,"Requerimiento operativo, normalizar línea TIQ-TCH115"
+2008-11-28,HB,G,YAN,16:17,16:21,"Requerimiento operativo, normalizar línea TIQ-TCH115"
+2008-11-28,HB,G,CJL01,16:17,16:21,"Requerimiento operativo, normalizar línea TIQ-TCH115"
+2008-11-28,HB,G,CJL02,16:17,16:21,"Requerimiento operativo, normalizar línea TIQ-TCH115"
+2008-11-20,IAGSA,CNR,TRGBE01301,05:08,09:33,Por desconexión de la unidad GBE01.
+2008-11-16,SEPSA,D,POT-SBA069,07:12,15:27,"Cambio trampas de onda S/Es. Catavi, Ocuri y Potosi y mtto. de CCPDS en S/E Ocuri."
+2008-12-22,ISABOL,T,ATARB230,00:00,09:50,Pruebas y ajustes en sistemas de comunicación y protección en equipos PASS-M01 y PAS-M02
+2008-12-20,ISABOL,T,ATARB230,23:21,24:00,Mantenimiento del equipo PASS- M01
+2008-12-19,ISABOL,T,ATARB230,00:00,08:06,Mantenimiento del equipo PASS-MO1
+2008-12-19,ISABOL,T,ATARB230,23:00,24:00,Mantenimiento del equipo PASS-MO1
+2008-12-18,SEPSA,D,POT-SBA069,15:43,16:32,Por actuación de interdisparos (línea KAR-POT069)
+2008-12-14,SEPSA,D,POT-VEL069,05:05,08:44,Cambio de pararrayos en la línea POT-PUN069
+2008-12-14,SEPSA,D,POT-SBA069,05:10,08:51,Cambio de pararrayos en la línea POT-PUN069
+2008-12-08,ELFEC,D,TRIRP115,00:00,07:13,Mantenimiento anual de S/E COBOCE
+2008-12-07,ELFEC,D,TRIRP115,00:00,24:00,Mantenimiento anual de S/E COBOCE
+2008-12-06,ELFEC,D,TRIRP115,06:11,24:00,Mantenimiento anual de S/E COBOCE
+2009-01-31,SEPSA,D,POT-SBA069,17:52,18:23,Interdisparos ante la apertura del Int. B441 en S/E POT
+2009-01-29,CRE,D,TRMON11501,01:39,04:36,Desconexión de emergencia del autotransformador ATARB230
+2009-01-29,CRE,D,TRMON11502,01:39,04:36,Desconexión de emergencia del autotransformador ATARB230
+2009-01-29,CRE,D,TRARB11501,01:40,04:35,Desconexión de emergencia del autotransformador ATARB230
+2009-01-29,CRE,D,TRARB11502,01:40,04:35,Desconexión de emergencia del autotransformador ATARB230
+2009-01-11,TDE,T,SIS-SJO115,07:35,13:33,Pruebas en PTs barra en 115 kV S/E SIS y limpieza de aisladores.
+2009-01-11,TDE,T,ARO-SIS115,11:00,13:33,Pruebas en PTs barra en 115 kV S/E SIS y limpieza de aisladores.
+2009-01-11,TDE,T,ARO-SIS115,07:34,08:00,Pruebas en PTs barra en 115 kV S/E SIS y limpieza de aisladores.
+2009-01-11,TDE,T,COR-SIS115,07:32,13:32,Pruebas en PTs barra en 115 kV S/E SIS y limpieza de aisladores.
+2009-02-15,EGSA,G,GCH04,05:08,08:53,Trabajos programados de CRE en barra en 69 kV de S/E GCH
+2009-02-15,EGSA,G,GCH06,05:10,08:10,Trabajos programados de CRE en barra en 69 kV de S/E GCH
+2009-02-15,EGSA,G,GCH01,05:35,08:04,Trabajos programados de CRE en barra en 69 kV de S/E GCH
+2009-02-15,EGSA,G,GCH02,05:37,08:04,Trabajos programados de CRE en barra en 69 kV de S/E GCH
+2009-02-15,TDE,T,ATGCH23001,05:41,08:01,Trabajos programados de CRE en barra en 69 kV de S/E GCH
+2009-02-15,TDE,T,ATGCH23002,05:42,08:12,Trabajos programados de CRE en barra en 69 kV de S/E GCH
+2009-02-15,TDE,T,CAR-GCH230,05:42,08:01,Trabajos programados de CRE en barra en 69 kV de S/E GCH
+2009-02-15,EGSA,G,GCH11,00:00,08:49,Trabajos programados de CRE en barra en 69 kV de S/E GCH
+2009-02-15,EGSA,G,GCH09,00:15,08:23,Trabajos programados de CRE en barra en 69 kV de S/E GCH
+2009-02-15,CRE,D,TRMON11501,03:57,08:47,Trabajos programados de ISABOL en S/E ARB.
+2009-02-15,CRE,D,TRMON11502,03:58,08:42,Trabajos programados de ISABOL en S/E ARB.
+2009-02-15,CRE,D,ARB-MON115,03:59,08:41,Trabajos programados de ISABOL en S/E ARB.
+2009-02-15,CRE,D,TRARB11501,04:00,08:38,Trabajos programados de ISABOL en S/E ARB.
+2009-03-22,TDE,T,MAZ-VIC230,07:03,17:28,Trabajos programados de TDE en S/Es MAZ y KEN
+2009-03-08,TDE,T,ATGCH23001,05:31,10:05,Trabajos programados de CRE y EGSA en barra en 69 kV de S/E GCH.
+2009-03-08,TDE,T,ATGCH23002,05:32,10:08,Trabajos programados de CRE y EGSA en barra en 69 kV de S/E GCH.
+2009-03-08,TDE,T,CAR-GCH230,05:32,10:05,Trabajos programados de CRE y EGSA en barra en 69 kV de S/E GCH.
+2009-04-26,VHE,G,VHE02,10:12,12:10,Programado
+2009-04-26,VHE,G,VHE04,10:12,12:10,Programado
+2009-04-26,VHE,G,VHE01,10:12,12:10,Programado
+2009-04-26,VHE,G,VHE03,10:12,12:10,Programado
+2009-04-18,SEPSA,D,POT-SBA069,08:36,17:14,Mantenimiento programado de la línea CAT-POT115
+2009-04-18,SEPSA,D,TROCU115,08:40,17:02,Mantenimiento programado de la línea CAT-POT115
+2009-05-10,COBEE,G,MIG01,00:00,22:01,Problemas sociales en el Valle de Miguillas
+2009-05-10,COBEE,G,MIG02,00:00,22:01,Problemas sociales en el Valle de Miguillas
+2009-05-10,COBEE,G,ANG01,00:00,22:01,Problemas sociales en el Valle de Miguillas
+2009-05-10,COBEE,G,ANG02,00:00,22:01,Problemas sociales en el Valle de Miguillas
+2009-05-10,COBEE,G,CRB,00:00,22:01,Problemas sociales en el Valle de Miguillas
+2009-05-10,COBEE,G,CHO01,00:00,22:01,Problemas sociales en el Valle de Miguillas
+2009-05-10,COBEE,G,CHO02,00:00,22:01,Problemas sociales en el Valle de Miguillas
+2009-05-10,COBEE,G,CHO03,00:00,22:01,Problemas sociales en el Valle de Miguillas
+2009-05-10,COBEE,G,ANG03,00:00,22:01,Problemas sociales en el Valle de Miguillas
+2009-05-09,COBEE,G,MIG01,00:00,24:00,Problemas sociales en el Valle de Miguillas
+2009-05-09,COBEE,G,MIG02,00:00,24:00,Problemas sociales en el Valle de Miguillas
+2009-05-09,COBEE,G,ANG01,00:00,24:00,Problemas sociales en el Valle de Miguillas
+2009-05-09,COBEE,G,ANG02,00:00,24:00,Problemas sociales en el Valle de Miguillas
+2009-05-09,COBEE,G,CRB,00:00,24:00,Problemas sociales en el Valle de Miguillas
+2009-05-09,COBEE,G,CHO01,00:00,24:00,Problemas sociales en el Valle de Miguillas
+2009-05-09,COBEE,G,CHO02,00:00,24:00,Problemas sociales en el Valle de Miguillas
+2009-05-09,COBEE,G,CHO03,00:00,24:00,Problemas sociales en el Valle de Miguillas
+2009-05-09,COBEE,G,ANG03,00:00,24:00,Problemas sociales en el Valle de Miguillas
+2009-05-08,COBEE,G,MIG01,00:00,24:00,Problemas sociales en el Valle de Miguillas
+2009-05-08,COBEE,G,MIG02,00:00,24:00,Problemas sociales en el Valle de Miguillas
+2009-05-08,COBEE,G,ANG01,00:00,24:00,Problemas sociales en el Valle de Miguillas
+2009-05-08,COBEE,G,ANG02,00:00,24:00,Problemas sociales en el Valle de Miguillas
+2009-05-08,COBEE,G,CRB,00:00,24:00,Problemas sociales en el Valle de Miguillas
+2009-05-08,COBEE,G,CHO01,00:00,24:00,Problemas sociales en el Valle de Miguillas
+2009-05-08,COBEE,G,CHO02,00:00,24:00,Problemas sociales en el Valle de Miguillas
+2009-05-08,COBEE,G,CHO03,00:00,24:00,Problemas sociales en el Valle de Miguillas
+2009-05-08,COBEE,G,ANG03,00:00,24:00,Problemas sociales en el Valle de Miguillas
+2009-05-07,COBEE,G,MIG01,00:00,24:00,Problemas sociales en el Valle de Miguillas
+2009-05-07,COBEE,G,MIG02,00:00,24:00,Problemas sociales en el Valle de Miguillas
+2009-05-07,COBEE,G,CHO01,00:00,24:00,Problemas sociales en el Valle de Miguillas
+2009-05-07,COBEE,G,CHO02,00:00,24:00,Problemas sociales en el Valle de Miguillas
+2009-05-07,COBEE,G,CRB,00:00,24:00,Problemas sociales en el Valle de Miguillas
+2009-05-07,COBEE,G,ANG01,00:00,24:00,Problemas sociales en el Valle de Miguillas
+2009-05-07,COBEE,G,ANG02,00:00,24:00,Problemas sociales en el Valle de Miguillas
+2009-05-07,COBEE,G,ANG03,00:00,24:00,Problemas sociales en el Valle de Miguillas
+2009-05-07,COBEE,G,CHO03,00:00,24:00,Problemas sociales en el Valle de Miguillas
+2009-05-06,COBEE,G,CHO02,05:41,24:00,Problemas sociales en el Valle de Zongo
+2009-05-06,COBEE,G,CHO01,05:42,24:00,Problemas sociales en el Valle de Zongo
+2009-05-06,COBEE,G,CHO03,05:43,24:00,Problemas sociales en el Valle de Zongo
+2009-05-06,COBEE,G,CRB,05:57,24:00,Problemas sociales en el Valle de Zongo
+2009-05-06,COBEE,G,ANG01,06:00,24:00,Problemas sociales en el Valle de Zongo
+2009-05-06,COBEE,G,ANG03,06:00,24:00,Problemas sociales en el Valle de Zongo
+2009-05-06,COBEE,G,MIG01,06:00,24:00,Problemas sociales en el Valle de Zongo
+2009-05-06,COBEE,G,ANG02,06:00,24:00,Problemas sociales en el Valle de Zongo
+2009-05-06,COBEE,G,MIG02,06:00,24:00,Problemas sociales en el Valle de Zongo
+2009-06-16,MSCR,CNR,TRSCR23002,07:21,07:38,Sistema de interdisparos ante actuación errónea del interruptor 2A220 en S/E SUC
+2009-06-16,SEPSA,D,POT-SBA069,07:21,08:39,Sistema de interdisparos ante actuación errónea del interruptor 2A220 en S/E SUC
+2009-06-16,TESA,T,PUN-SCR230,07:21,07:37,Sistema de interdisparos ante actuación errónea del interruptor 2A220 en S/E SUC
+2009-06-14,SEPSA,D,POT-SBA069,03:58,18:37,Trabajos programados de ISABOL
+2009-06-13,SEPSA,D,POT-SBA069,04:59,19:25,Trabajos programados de ISABOL
+2009-07-26,ELFEC,D,ARO-CAL115,06:26,08:46,Mantenimiento programado de TDE en S/E ARO
+2009-07-26,ELFEC,D,ARO-CEN115,06:27,08:46,Mantenimiento programado de TDE en S/E ARO
+2009-07-25,CRE,D,URU-NJE069,06:13,18:19,Mantenimiento programado de ISABOL en S/E Urubó.
+2009-07-25,CRE,D,URU-FER069,06:13,18:19,Mantenimiento programado de ISABOL en S/E Urubó.
+2009-07-19,ISABOL,T,ATPUN230,06:06,07:38,Trabajos programados de TDE en S/E Punutuma
+2009-07-19,ISABOL,T,ATARB230,14:20,18:34,Trabajos programados de CRE en S/Es Arboleda y Montero
+2009-07-19,ISABOL,T,ATPUN230,15:30,17:07,Trabajos programados de TDE en S/E Punutuma
+2009-07-05,SEPSA,D,POT-SBA069,06:06,08:37,Por conexión a barras de 69 KV del segundo banco de capacitores de 12 MVAR.
+2009-08-23,ELFEO,D,CSG-BLV069,07:00,18:56,"Trabajos programados en el autotransformador ATCAT115, regulación de tensión."
+2009-08-23,ELFEO,D,AVI-QLC069,07:00,18:56,"Trabajos programados en el autotransformador ATCAT115, regulación de tensión."
+2009-08-23,ELFEO,D,AVI-BLV069,07:00,18:56,"Trabajos programados en el autotransformador ATCAT115, regulación de tensión."
+2009-09-30,SEPSA,D,TRPUN069,00:00,24:00,Convulsión social en comunidad Caracota
+2009-09-29,SEPSA,D,TRPUN069,00:00,24:00,Convulsión social en comunidad Caracota
+2009-09-28,SEPSA,D,TRPUN069,00:00,24:00,Convulsión social en comunidad Caracota.
+2009-09-27,ERESA,G,LAN-PUH069,06:01,07:40,Desenergización de la barra en 69 kV S/E PUN (proyecto de ampliación Sur)
+2009-09-27,ERESA,G,PUH,06:05,07:39,Desenergización de la barra en 69 kV S/E PUN (proyecto de ampliación Sur)
+2009-09-27,SEPSA,D,PUN-TAZ069,06:09,07:36,Desenergización de la barra en 69 kV S/E PUN (proyecto de ampliación Sur)
+2009-09-27,ISABOL,T,ATPUN230,06:11,07:35,Desenergización de la barra en 69 kV S/E PUN (proyecto de ampliación Sur)
+2009-09-27,ERESA,G,PUH-PUN069,06:12,07:36,Desenergización de la barra en 69 kV S/E PUN (proyecto de ampliación Sur)
+2009-09-27,ERESA,G,LAN-PUH069,12:56,13:57,Desenergización de la barra en 69 kV S/E PUN (proyecto de ampliación Sur)
+2009-09-27,ERESA,G,PUH,12:57,13:56,Desenergización de la barra en 69 kV S/E PUN (proyecto de ampliación Sur)
+2009-09-27,ERESA,G,PUH-PUN069,12:58,13:54,Desenergización de la barra en 69 kV S/E PUN (proyecto de ampliación Sur)
+2009-09-27,SEPSA,D,PUN-TAZ069,12:59,13:53,Desenergización de la barra en 69 kV S/E PUN (proyecto de ampliación Sur)
+2009-09-27,ISABOL,T,ATPUN230,13:01,13:55,Desenergización de la barra en 69 kV S/E PUN (proyecto de ampliación Sur)
+2009-09-26,SEPSA,D,TRPUN069,00:08,24:00,Convulsión social en la comunidad Caracota.
+2009-09-19,TDE,T,COR-SIS115,04:03,11:37,Cambio del interruptor A122 en S/E SIS
+2009-10-26,COBEE,G,BOT01,00:00,18:25,Convulsión social en el Valle de Zongo (desvio de agua)
+2009-10-26,COBEE,G,BOT02,00:00,18:25,Convulsión social en el Valle de Zongo (desvio de agua)
+2009-10-26,COBEE,G,BOT03,00:00,18:25,Convulsión social en el Valle de Zongo (desvio de agua)
+2009-10-26,COBEE,G,CUT01,00:00,18:25,Convulsión social en el Valle de Zongo (desvio de agua)
+2009-10-26,COBEE,G,CUT02,00:00,18:25,Convulsión social en el Valle de Zongo (desvio de agua)
+2009-10-26,COBEE,G,HAR02,00:00,18:25,Convulsión social en el Valle de Zongo (desvio de agua)
+2009-10-26,COBEE,G,CUT04,00:00,18:25,Convulsión social en el Valle de Zongo (desvio de agua)
+2009-10-26,COBEE,G,CUT05,00:00,18:25,Convulsión social en el Valle de Zongo (desvio de agua)
+2009-10-26,COBEE,G,HUA01,00:00,18:25,Convulsión social en el Valle de Zongo (desvio de agua)
+2009-10-26,COBEE,G,HUA02,00:00,18:25,Convulsión social en el Valle de Zongo (desvio de agua)
+2009-10-26,COBEE,G,HAR01,00:00,18:25,Convulsión social en el Valle de Zongo (desvio de agua)
+2009-10-26,COBEE,G,CUT03,00:00,18:25,Convulsión social en el Valle de Zongo (desvio de agua)
+2009-10-25,COBEE,G,SRO02,00:00,21:37,Convulsión social en el Valle de Zongo (desvio de agua)
+2009-10-25,COBEE,G,CUT05,00:00,21:06,Convulsión social en el Valle de Zongo (desvio de agua)
+2009-10-25,COBEE,G,HUA01,00:00,24:00,Convulsión social en el Valle de Zongo (desvio de agua)
+2009-10-25,COBEE,G,HUA02,00:00,24:00,Convulsión social en el Valle de Zongo (desvio de agua)
+2009-10-25,COBEE,G,CUT01,00:00,24:00,Convulsión social en el Valle de Zongo (desvio de agua)
+2009-10-25,COBEE,G,BOT02,00:00,24:00,Convulsión social en el Valle de Zongo (desvio de agua)
+2009-10-25,COBEE,G,BOT03,00:00,24:00,Convulsión social en el Valle de Zongo (desvio de agua)
+2009-10-25,COBEE,G,CUT02,00:00,24:00,Convulsión social en el Valle de Zongo (desvio de agua)
+2009-10-25,COBEE,G,CUT03,00:00,24:00,Convulsión social en el Valle de Zongo (desvio de agua)
+2009-10-25,COBEE,G,CUT04,00:00,24:00,Convulsión social en el Valle de Zongo (desvio de agua)
+2009-10-25,COBEE,G,BOT01,00:00,24:00,Convulsión social en el Valle de Zongo (desvio de agua)
+2009-10-25,COBEE,G,HAR02,01:04,24:00,Convulsión social en el Valle de Zongo (desvio de agua)
+2009-10-25,COBEE,G,HAR01,01:04,24:00,Convulsión social en el Valle de Zongo (desvio de agua)
+2009-10-24,COBEE,G,HUA01,00:00,24:00,Convulsión social en el Valle de Zongo (desvio de agua)
+2009-10-24,COBEE,G,HUA02,00:00,24:00,Convulsión social en el Valle de Zongo (desvio de agua)
+2009-10-24,COBEE,G,CUT01,00:00,24:00,Convulsión social en el Valle de Zongo (desvio de agua)
+2009-10-24,COBEE,G,CUT02,00:00,24:00,Convulsión social en el Valle de Zongo (desvio de agua)
+2009-10-24,COBEE,G,CUT03,00:00,24:00,Convulsión social en el Valle de Zongo (desvio de agua)
+2009-10-24,COBEE,G,CUT04,00:00,24:00,Convulsión social en el Valle de Zongo (desvio de agua)
+2009-10-24,COBEE,G,CUT05,00:00,24:00,Convulsión social en el Valle de Zongo (desvio de agua)
+2009-10-24,COBEE,G,BOT01,03:56,24:00,Convulsión social en el Valle de Zongo (desvio de agua)
+2009-10-24,COBEE,G,BOT02,03:56,24:00,Convulsión social en el Valle de Zongo (desvio de agua)
+2009-10-24,COBEE,G,BOT03,03:56,24:00,Convulsión social en el Valle de Zongo (desvio de agua)
+2009-10-24,COBEE,G,SRO02,23:40,24:00,Convulsión social en el Valle de Zongo (desvio de agua)
+2009-10-23,COBEE,G,HUA01,17:38,24:00,Convulsión social en el Valle de Zongo (desvio de agua)
+2009-10-23,COBEE,G,HUA02,17:39,18:44,Convulsión social en el Valle de Zongo (desvio de agua)
+2009-10-23,COBEE,G,CUT05,21:51,24:00,Convulsión social en el Valle de Zongo (desvio de agua)
+2009-10-23,COBEE,G,HUA02,23:01,24:00,Convulsión social en el Valle de Zongo (desvio de agua)
+2009-10-22,TESA,T,PUN-SCR230,12:11,15:26,Requerimiento operativo
+2009-10-04,ERESA,G,LAN-PUH069,06:00,07:20,Trabajos programados de TDE en S/E PUN (proyecto de ampliación Sur I)
+2009-10-04,SEPSA,D,PUN-TAZ069,06:23,07:15,Trabajos programados de TDE en S/E PUN (proyecto de ampliación Sur I)
+2009-10-04,ERESA,G,PUH-PUN069,06:25,07:17,Trabajos programados de TDE en S/E PUN (proyecto de ampliación Sur I)
+2009-10-04,ISABOL,T,ATPUN230,06:25,07:14,Trabajos programados de TDE en S/E PUN (proyecto de ampliación Sur I)
+2009-10-04,SEPSA,D,TRPUN069,06:26,07:14,Trabajos programados de TDE en S/E PUN (proyecto de ampliación Sur I)
+2009-10-04,ERESA,G,PUH-PUN069,15:36,16:47,Trabajos programados de TDE en S/E PUN (proyecto de ampliación Sur I)
+2009-10-04,ERESA,G,LAN-PUH069,15:36,16:52,Trabajos programados de TDE en S/E PUN (proyecto de ampliación Sur I)
+2009-10-04,SEPSA,D,PUN-TAZ069,15:44,16:40,Trabajos programados de TDE en S/E PUN (proyecto de ampliación Sur I)
+2009-10-04,ISABOL,T,ATPUN230,15:45,16:41,Trabajos programados de TDE en S/E PUN (proyecto de ampliación Sur I)
+2009-10-04,SEPSA,D,TRPUN069,15:45,16:38,Trabajos programados de TDE en S/E PUN (proyecto de ampliación Sur I)
+2009-10-01,SEPSA,D,TRPUN069,00:00,24:00,Convulsión social en comunidad Caracota
+2009-12-29,ISABOL,T,SUC-PUN230,11:52,12:00,Operación sistema interdisparos.
+2009-12-29,MSCR,CNR,TRSCR23002,11:52,12:03,Operación sistema interdisparos.
+2009-12-29,MSCR,CNR,TRSCR23001,11:52,12:07,Operación sistema interdisparos.
+2009-12-29,SEPSA,D,POT-SBA069,11:52,12:18,Operación sistema interdisparos.
+2009-12-29,TESA,T,PUN-SCR230,11:52,12:02,Operación sistema interdisparos.
+2009-12-29,ISABOL,T,SUC-PUN230,19:26,19:53,Operación sistema interdisparos.
+2009-12-29,MSCR,CNR,TRSCR23001,19:26,20:15,Operación sistema interdisparos.
+2009-12-29,MSCR,CNR,TRSCR23002,19:26,20:15,Operación sistema interdisparos.
+2009-12-29,SEPSA,D,POT-SBA069,19:26,21:22,Operación sistema interdisparos.
+2009-12-29,TESA,T,PUN-SCR230,19:26,20:15,Operación sistema interdisparos.
+2009-12-15,COBEE,G,CRB,08:39,19:50,Desconexión línea en 69 kV HUY-MIG ocasionada por terceros.
+2009-12-15,COBEE,G,CHO01,08:39,10:17,Desconexión línea en 69 kV HUY-MIG ocasionada por terceros.
+2009-12-15,COBEE,G,CHO02,08:39,19:48,Desconexión línea en 69 kV HUY-MIG ocasionada por terceros.
+2009-12-15,COBEE,G,CHO03,08:39,19:48,Desconexión línea en 69 kV HUY-MIG ocasionada por terceros.
+2009-12-15,COBEE,G,ANG01,08:39,19:45,Desconexión línea en 69 kV HUY-MIG ocasionada por terceros.
+2009-12-15,COBEE,G,ANG02,08:39,19:45,Desconexión línea en 69 kV HUY-MIG ocasionada por terceros.
+2009-12-15,COBEE,G,MIG02,08:39,19:41,Desconexión línea en 69 kV HUY-MIG ocasionada por terceros.
+2009-12-15,COBEE,G,ANG03,08:39,19:45,Desconexión línea en 69 kV HUY-MIG ocasionada por terceros.
+2009-12-15,COBEE,G,MIG01,08:39,09:21,Desconexión línea en 69 kV HUY-MIG ocasionada por terceros.
+2009-12-15,COBEE,G,MIG01,19:27,19:41,Desconexión línea en 69 kV HUY-MIG ocasionada por terceros.
+2009-12-15,COBEE,G,CHO01,19:29,19:48,Desconexión línea en 69 kV HUY-MIG ocasionada por terceros.
+2010-01-31,TDE,T,COR-SIS115,05:46,14:16,"Desenergización a Solicitud de Empresa Corani, por trabajos de instalación de nuevos equipos de servicio local."
+2010-01-24,TDE,T,CAR-GCH230,05:30,15:56,"Desenergización solicitada por ENDE ANDINA, para realizar el cruce de su línea Entre Rios - Carrasco."
+2010-01-24,TDE,T,REGCH230,05:30,15:50,"Desenergización solicitada por ENDE ANDINA, para realizar el cruce de su línea Entre Rios - Carrasco."
+2010-01-24,TDE,T,ATGCH23002,05:30,15:56,"Desenergización solicitada por ENDE ANDINA, para realizar el cruce de su línea Entre Rios - Carrasco."
+2010-01-24,TDE,T,ATGCH23001,05:30,15:57,"Desenergización solicitada por ENDE ANDINA, para realizar el cruce de su línea Entre Rios - Carrasco."
+2010-01-10,TDE,T,COR-SIS115,05:45,07:55,Por requerimiento de los trabajos de mantenimiento en la Central Corani.
+2010-01-10,TDE,T,COR-VHE115,05:46,07:57,Por requerimiento de los trabajos de mantenimiento en la Central Corani.
+2010-04-27,EGSA,G,SCZ02,00:00,04:52,Por prueba de eficiencia de la unidad SCZ01.
+2010-04-22,EGSA,G,GCH01,00:00,04:54,Por pruebas de eficiencia en la unidad GCH06.
+2010-04-22,EGSA,G,GCH04,00:00,04:54,Por pruebas de eficiencia en la unidad GCH06.
+2010-04-22,EGSA,G,GCH02,00:00,04:54,Por pruebas de eficiencia en la unidad GCH06.
+2010-04-21,EGSA,G,GCH02,00:00,04:48,Por pruebas de eficiencia en la unidad GCH04.
+2010-04-21,EGSA,G,GCH01,00:00,04:48,Por pruebas de eficiencia en la unidad GCH04.
+2010-04-20,EGSA,G,GCH06,00:00,05:04,Por pruebas de eficiencia en la unidad GCH02.
+2010-04-20,EGSA,G,GCH01,00:00,05:04,Por pruebas de eficiencia en la unidad GCH02.
+2010-04-19,EGSA,G,GCH06,00:00,05:20,Por pruebas de eficiencia en la unidad GCH01.
+2010-04-19,EGSA,G,GCH04,00:00,05:20,Por pruebas de eficiencia en la unidad GCH01.
+2010-04-18,SEPSA,D,POT-SBA069,06:10,17:16,Trabajos programados de TDE en S/E Potosí.
+2010-04-18,ELFEC,D,TRIRP115,06:22,17:14,Trabajos programdos de TDE en la línea en 115 kV Valle Hermoso - Catavi.
+2010-04-17,ELFEC,D,TRIRP115,06:30,18:30,Trabajos programdos de TDE en la línea en 115 kV Valle Hermoso - Catavi.
+2010-04-02,ELFEO,D,AVI-BLV069,07:00,17:21,"Para evitar bajo voltaje en S/Es BLV, AVI y QLC por trabajos de TDE en S/E CAT."
+2010-04-02,ELFEO,D,AVI-QLC069,07:00,17:21,"Para evitar bajo voltaje en S/Es BLV, AVI y QLC por trabajos de TDE en S/E CAT."
+2010-04-02,ELFEO,D,CSG-BLV069,07:00,17:21,"Para evitar bajo voltaje en S/Es BLV, AVI y QLC por trabajos de TDE en S/E CAT."
+2010-05-23,TDE,T,ATGCH23002,07:32,08:30,"Trabajos de separación de cables de guardia línea CAR-GCH230 y conductores de fase línea CAR-ERI230, vanos entre estructuras Nº 378-379."
+2010-05-23,TDE,T,CAR-GCH230,07:32,08:30,"Trabajos de separación de cables de guardia línea CAR-GCH230 y conductores de fase línea CAR-ERI230, vanos entre estructuras Nº 378-379."
+2010-05-23,TDE,T,ATGCH23001,07:32,08:30,"Trabajos de separación de cables de guardia línea CAR-GCH230 y conductores de fase línea CAR-ERI230, vanos entre estructuras Nº 378-379."
+2010-05-23,TDE,T,REGCH230,07:32,08:30,"Trabajos de separación de cables de guardia línea CAR-GCH230 y conductores de fase línea CAR-ERI230, vanos entre estructuras Nº 378-379."
+2010-05-23,VHE,G,VHE03,08:03,12:27,Trabajos en equipos de S/E VHE por parte de TDE.
+2010-05-23,VHE,G,VHE02,08:03,12:27,Trabajos en equipos de S/E VHE por parte de TDE.
+2010-05-23,VHE,G,VHE04,08:03,12:27,Trabajos en equipos de S/E VHE por parte de TDE.
+2010-05-23,TDE,T,REGCH230,11:00,11:49,"Trabajos de separación de cables de guardia línea CAR-GCH230 y conductores de fase línea CAR-ERI230, vanos entre estructuras Nº 378-379."
+2010-05-23,TDE,T,ATGCH23002,11:00,11:49,"Trabajos de separación de cables de guardia línea CAR-GCH230 y conductores de fase línea CAR-ERI230, vanos entre estructuras Nº 378-379."
+2010-05-23,TDE,T,CAR-GCH230,11:00,11:49,"Trabajos de separación de cables de guardia línea CAR-GCH230 y conductores de fase línea CAR-ERI230, vanos entre estructuras Nº 378-379."
+2010-05-23,TDE,T,ATGCH23001,11:00,11:50,"Trabajos de separación de cables de guardia línea CAR-GCH230 y conductores de fase línea CAR-ERI230, vanos entre estructuras Nº 378-379."
+2010-06-18,VHE,G,VHE01,00:00,02:00,Por pruebas de Heat Rate en la undad VHE04.
+2010-06-18,VHE,G,VHE03,00:00,02:00,Por pruebas de Heat Rate en la undad VHE04.
+2010-06-18,VHE,G,VHE02,00:00,02:00,Por pruebas de Heat Rate en la undad VHE04.
+2010-06-17,VHE,G,VHE01,00:00,02:00,Por pruebas Heat Rate en la unidad VHE03.
+2010-06-17,VHE,G,VHE02,00:00,02:00,Por pruebas Heat Rate en la unidad VHE03.
+2010-06-16,VHE,G,VHE04,00:00,01:50,Por pruebas de Heat Rate en la unidad VHE01.
+2010-06-16,VHE,G,VHE02,00:00,02:03,Por pruebas de Heat Rate en la unidad VHE01.
+2010-06-15,VHE,G,VHE01,00:00,02:17,Por pruebas de Heat Rate en la unidad VHE02.
+2010-06-15,VHE,G,VHE04,00:00,02:17,Por pruebas de Heat Rate en la unidad VHE02.
+2010-06-15,VHE,G,VHE03,00:00,02:17,Por pruebas de Heat Rate en la unidad VHE02.
+2010-06-10,EGSA,G,ARJ03,07:00,12:08,"Por pruebas de potencia efectiva, medición y cálculo del Heat Rate en ARJ02."
+2010-06-10,EGSA,G,ARJ02,12:31,16:00,"Por pruebas de potencia efectiva, medición y cálculo del Heat Rate en ARJ03."
+2010-06-09,EGSA,G,ARJ10,07:04,11:54,"Por pruebas de potencia efectiva, medición y cálculo del Heat Rate en ARJ09."
+2010-06-09,EGSA,G,ARJ11,07:06,11:56,"Por pruebas de potencia efectiva, medición y cálculo del Heat Rate en ARJ09."
+2010-06-08,EGSA,G,ARJ09,07:04,16:45,"Por pruebas de potencia efectiva, medición y cálculo del Heat Rate en ARJ10 y 11."
+2010-06-08,EGSA,G,ARJ11,07:07,11:37,"Por pruebas de potencia efectiva, medición y cálculo del Heat Rate en ARJ10."
+2010-06-08,EGSA,G,ARJ10,12:04,16:45,"Por pruebas de potencia efectiva, medición y cálculo del Heat Rate en ARJ11."
+2010-06-07,EGSA,G,ARJ10,07:07,08:20,Por pruebas de potencia efectiva y Heat Rate en ARJ09.
+2010-06-07,EGSA,G,ARJ11,07:10,07:39,Por pruebas de potencia efectiva y Heat Rate en ARJ09.
+2010-06-07,EGSA,G,ARJ14,09:12,15:36,Por pruebas de potencia efectiva y Heat Rate en ARJ13.
+2010-06-07,EGSA,G,ARJ13,16:17,20:45,Por pruebas de potencia efectiva y Heat Rate en ARJ14.
+2010-09-28,COBEE,G,CAH01,00:00,04:10,Convulsión social en el Valle de Zongo.
+2010-09-28,COBEE,G,HUA02,00:00,04:10,Convulsión social en el Valle de Zongo.
+2010-09-28,COBEE,G,HUA01,00:00,04:10,Convulsión social en el Valle de Zongo.
+2010-09-27,COBEE,G,HUA01,02:27,24:00,Convulsión social en el Valle de Zongo.
+2010-09-27,COBEE,G,HUA02,02:53,24:00,Convulsión social en el Valle de Zongo.
+2010-09-27,COBEE,G,CAH01,08:14,24:00,Convulsión social en el Valle de Zongo.
+2010-09-27,COBEE,G,TIQ,08:23,19:50,Convulsión social en el Valle de Zongo.
+2010-09-27,COBEE,G,BOT02,08:39,19:18,Convulsión social en el Valle de Zongo.
+2010-11-28,TDE,T,COR-SIS115,06:01,08:51,Mantenimiento preventivo de S/E Santa Isabel por parte de CORANI.
+2010-11-28,TDE,T,ARO-SIS115,06:02,08:53,Mantenimiento preventivo de S/E Santa Isabel por parte de CORANI.
+2010-11-28,TDE,T,SIS-SJO115,06:06,08:54,Mantenimiento preventivo de S/E Santa Isabel por parte de CORANI.
+2010-12-18,TDE,T,ARJ-SUC069,07:16,15:45,A Solicitud de CESSA para adecuación de barra de 69 kV y conexión de nueva bahía.
+2010-12-18,ISABOL,T,ATSUC230,07:20,15:42,A Solicitud de CESSA para adecuación de barra de 69 kV y conexión de nueva bahía.
+2024-11-03,ENDE ANDINA,G,SUR40,18:03,19:06,"Disparo, operó sistema Load Sharing,"
+2024-11-03,ENDE ANDINA,G,SUR20,18:03,19:06,"Disparo, operó sistema Load Sharing,"
+2024-11-03,ENDE ANDINA,G,SUR42,18:03,19:06,"Disparo, operó sistema Load Sharing,"
