@@ -1,0 +1,485 @@
+{
+  "name": "despacho-de-carga",
+  "title": "Eventos operativos reportados por el Comité Nacional de Despacho de Carga en Bolivia ",
+  "version": "1.0.0",
+  "resources": [
+    {
+      "name": "eventos_mayores",
+      "title": "Eventos mayores",
+      "type": "table",
+      "path": "data/eventos_mayores.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "fecha",
+            "type": "date",
+            "description": "Fecha del evento"
+          },
+          {
+            "name": "descripcion",
+            "type": "string",
+            "description": "Descripción del evento"
+          },
+          {
+            "name": "area",
+            "type": "string",
+            "description": "Área del Sistema Interconectado Nacional donde ocurre el evento"
+          },
+          {
+            "name": "agente_afectado",
+            "type": "string",
+            "description": "Nombre del agente del Mercado Eléctrico Mayorista afectado por el evento"
+          },
+          {
+            "name": "cat",
+            "type": "string",
+            "description": "Categoría del agente del Mercado Eléctrico Mayorista afectado por el evento",
+            "categories": [
+              { "value": "G", "label": "Generación" },
+              { "value": "T", "label": "Transmisión" },
+              { "value": "D", "label": "Distribución" },
+              { "value": "CNR", "label": "Consumidor No Regulado" }
+            ]
+          },
+          {
+            "name": "de_hrs",
+            "type": "string",
+            "description": "Hora y minuto de inicio del evento"
+          },
+          {
+            "name": "a_hrs",
+            "type": "string",
+            "description": "Hora y minuto de fin del evento"
+          },
+          {
+            "name": "mw_desc",
+            "type": "number",
+            "description": "Megawatts afectados por el evento"
+          },
+          {
+            "name": "causa",
+            "type": "string",
+            "description": "Causa del evento"
+          }
+        ]
+      }
+    },
+    {
+      "name": "fallas_durante_la_operacion",
+      "title": "Fallas durante la operación",
+      "type": "table",
+      "path": "data/fallas_durante_la_operacion.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "fecha",
+            "type": "date",
+            "description": "Fecha del evento"
+          },
+          {
+            "name": "agente",
+            "type": "string",
+            "description": "Nombre del agente Mercado Eléctrico Mayorista donde ocurre la falla"
+          },
+          {
+            "name": "cat",
+            "type": "string",
+            "description": "Categoría del agente del Mercado Eléctrico Mayorista donde ocurre la falla",
+            "categories": [
+              { "value": "G", "label": "Generación" },
+              { "value": "T", "label": "Transmisión" },
+              { "value": "D", "label": "Distribución" },
+              { "value": "CNR", "label": "Consumidor No Regulado" }
+            ]
+          },
+          {
+            "name": "componente",
+            "type": "string",
+            "description": "Componente del Sistema Interconectado Nacional afectado por el evento"
+          },
+          {
+            "name": "de_hrs",
+            "type": "string",
+            "description": "Hora y minuto de inicio del evento"
+          },
+          {
+            "name": "a_hrs",
+            "type": "string",
+            "description": "Hora y minuto de fin del evento"
+          },
+          {
+            "name": "causa",
+            "type": "string",
+            "description": "Causa del evento"
+          },
+          {
+            "name": "tipo",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "edac",
+            "type": "string",
+            "description": "Si el evento requirió el uso del Esquema de Alivio de Carga"
+          },
+          {
+            "name": "n_inf",
+            "type": "string",
+            "description": "Número de informe que reporta la falla"
+          },
+          {
+            "name": "agente_afectado",
+            "type": "string",
+            "description": "Nombres de agentes del Mercado Eléctrico Mayorista afectados por el evento"
+          }
+        ]
+      }
+    },
+    {
+      "name": "instalaciones_en_mantenimiento",
+      "title": "Instalaciones en mantenimiento",
+      "type": "table",
+      "path": "data/instalaciones_en_mantenimiento.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "fecha",
+            "type": "date",
+            "description": "Fecha del evento"
+          },
+          {
+            "name": "agente",
+            "type": "string",
+            "description": "Nombre del agente del Mercado Eléctrico Mayorista donde ocurre el mantenimiento"
+          },
+          {
+            "name": "cat",
+            "type": "string",
+            "description": "Categoría del agente del Mercado Eléctrico Mayorista donde ocurre el mantenimienton"
+          },
+          {
+            "name": "componente",
+            "type": "string",
+            "description": "Componente del Sistema Interconectado Nacional donde ocurre el mantenimiento"
+          },
+          {
+            "name": "de_hrs",
+            "type": "string",
+            "description": "Hora y minuto de inicio del evento"
+          },
+          {
+            "name": "a_hrs",
+            "type": "string",
+            "description": "Hora y minuto de fin del evento"
+          },
+          {
+            "name": "tipo",
+            "type": "string",
+            "tipo": "Si el mantenimiento fue programado o forzado"
+          },
+          {
+            "name": "trabajo",
+            "type": "string",
+            "description": "Descripción del trabajo de mantenimiento"
+          }
+        ]
+      }
+    },
+    {
+      "name": "instalaciones_no_disponibles_por_otras_causas",
+      "title": "Instalaciones no disponibles por otras causas",
+      "type": "table",
+      "path": "data/instalaciones_no_disponibles_por_otras_causas.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "mac-roman",
+      "schema": {
+        "fields": [
+          {
+            "name": "fecha",
+            "type": "date",
+            "description": "Fecha del evento"
+          },
+          {
+            "name": "agente",
+            "type": "string",
+            "description": "Nombre del agente del Mercado Eléctrico Mayorista afectado por el evento"
+          },
+          {
+            "name": "cat",
+            "type": "string",
+            "description": "Categoría del agente del Mercado Eléctrico Mayorista afectado por el evento"
+          },
+          {
+            "name": "componente",
+            "type": "string",
+            "description": "Componente del Sistema Interconectado Nacional afectado por el evento"
+          },
+          {
+            "name": "de_hrs",
+            "type": "string",
+            "description": "Hora y minuto de inicio del evento"
+          },
+          {
+            "name": "a_hrs",
+            "type": "string",
+            "description": "Hora y minuto de fin del evento"
+          },
+          {
+            "name": "causa",
+            "type": "string",
+            "description": "Causa del evento"
+          }
+        ]
+      }
+    },
+    {
+      "name": "operacion_con_potencia_limitada",
+      "title": "Operación con potencia limitada",
+      "type": "table",
+      "path": "data/operacion_con_potencia_limitada.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "fecha",
+            "type": "date",
+            "description": "Fecha del evento"
+          },
+          {
+            "name": "agente",
+            "type": "string",
+            "description": "Nombre del agente del Mercado Eléctrico Mayorista afectado por el evento"
+          },
+          {
+            "name": "cat",
+            "type": "string",
+            "description": "Categoría del agente del Mercado Eléctrico Mayorista afectado por el evento"
+          },
+          {
+            "name": "componente",
+            "type": "string",
+            "description": "Componente del Sistema Interconectado Nacional afectado por el evento"
+          },
+          {
+            "name": "de_hrs",
+            "type": "string",
+            "description": "Hora y minuto de inicio del evento"
+          },
+          {
+            "name": "a_hrs",
+            "type": "string",
+            "description": "Hora y minuto de fin del evento"
+          },
+          {
+            "name": "potencia",
+            "type": "string",
+            "description": "Megawatts afectados por el evento"
+          },
+          {
+            "name": "causa",
+            "type": "string",
+            "description": "Causa del evento"
+          }
+        ]
+      }
+    },
+    {
+      "name": "otros_eventos",
+      "title": "Otros eventos",
+      "type": "table",
+      "path": "data/otros_eventos.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "fecha",
+            "type": "date",
+            "description": "Fecha del evento"
+          },
+          {
+            "name": "de_hrs",
+            "type": "string",
+            "description": "Hora y minuto de inicio del evento"
+          },
+          {
+            "name": "a_hrs",
+            "type": "string",
+            "description": "Hora y minuto de fin del evento"
+          },
+          {
+            "name": "descripcion",
+            "type": "string",
+            "description": "Descripción del evento"
+          }
+        ]
+      }
+    },
+    {
+      "name": "redespacho",
+      "title": "Redespacho",
+      "type": "table",
+      "path": "data/redespacho.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "fecha",
+            "type": "date",
+            "description": "Fecha del evento"
+          },
+          {
+            "name": "agente",
+            "type": "string",
+            "description": "Nombre del agente del Mercado Eléctrico Mayorista afectado por el evento"
+          },
+          {
+            "name": "cat",
+            "type": "string",
+            "description": "Categoría del agente del Mercado Eléctrico Mayorista afectado por el evento"
+          },
+          {
+            "name": "componente",
+            "type": "string",
+            "description": "Componente del Sistema Interconectado Nacional afectado por el evento"
+          },
+          {
+            "name": "de_hrs",
+            "type": "string",
+            "description": "Hora y minuto de inicio del evento"
+          },
+          {
+            "name": "a_hrs",
+            "type": "string",
+            "description": "Hora y minuto de fin del evento"
+          },
+          {
+            "name": "descripcion",
+            "type": "string",
+            "description": "Descripción del evento"
+          }
+        ]
+      }
+    },
+    {
+      "name": "reemplazos_carga_base_otros",
+      "title": "Reemplazos, carga base y otros",
+      "type": "table",
+      "path": "data/reemplazos_carga_base_otros.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "fecha",
+            "type": "date",
+            "description": "Fecha del evento"
+          },
+          {
+            "name": "agente",
+            "type": "string",
+            "description": "Nombre del agente del Mercado Eléctrico Mayorista afectado por el evento"
+          },
+          {
+            "name": "cat",
+            "type": "string",
+            "description": "Categoría del agente del Mercado Eléctrico Mayorista afectado por el evento"
+          },
+          {
+            "name": "componente",
+            "type": "string",
+            "description": "Componente del Sistema Interconectado Nacional afectado por el evento"
+          },
+          {
+            "name": "de_hrs",
+            "type": "string",
+            "description": "Hora y minuto de inicio del evento"
+          },
+          {
+            "name": "a_hrs",
+            "type": "string",
+            "description": "Hora y minuto de fin del evento"
+          },
+          {
+            "name": "descripcion",
+            "type": "string",
+            "description": "Descripción del evento"
+          }
+        ]
+      }
+    },
+    {
+      "name": "regimen_de_restriccion_por_transmision",
+      "title": "Régimen de restricción por transmisión",
+      "type": "table",
+      "path": "data/regimen_de_restriccion_por_transmision.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "fecha",
+            "type": "date",
+            "description": "Fecha del evento"
+          },
+          {
+            "name": "agente",
+            "type": "string",
+            "description": "Nombre del agente del Mercado Eléctrico Mayorista afectado por el evento"
+          },
+          {
+            "name": "cat",
+            "type": "string",
+            "description": "Categoría del agente del Mercado Eléctrico Mayorista afectado por el evento"
+          },
+          {
+            "name": "componente",
+            "type": "string",
+            "description": "Componente del Sistema Interconectado Nacional afectado por el evento"
+          },
+          {
+            "name": "de_hrs",
+            "type": "string",
+            "description": "Hora y minuto de inicio del evento"
+          },
+          {
+            "name": "a_hrs",
+            "type": "string",
+            "description": "Hora y minuto de fin del evento"
+          },
+          {
+            "name": "causa",
+            "type": "string",
+            "description": "Causa del evento"
+          }
+        ]
+      }
+    }
+  ]
+}
